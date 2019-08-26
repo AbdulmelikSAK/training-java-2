@@ -1,0 +1,1223 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>UTF-8 — Wikipédia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"UTF-8","wgTitle":"UTF-8","wgCurRevisionId":134983635,"wgRevisionId":134983635,"wgArticleId":3108,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Informatique/Articles liés","Portail:Écriture/Articles liés","Page avec des graphiques","Unicode","Internationalisation en informatique","Code préfixe"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"UTF-8","wgRelevantArticleId":3108,"wgRequestId":"WQvEngpAEKoAAGp8L0sAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q193537","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.gadget.newCollapsibleCSS":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ArchiveLinks","ext.gadget.newCollapsible","ext.gadget.WikiOpenStreetMap","ext.gadget.WikiMiniAtlas","ext.gadget.MonobookToolbarStandard","ext.gadget.ExternalSearch","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=ext.cite.styles%7Cext.gadget.newCollapsibleCSS%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/fr.m.wikipedia.org/wiki/UTF-8"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=UTF-8&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=UTF-8&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/UTF-8"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-UTF-8 rootpage-UTF-8 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">UTF-8</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><p><b>UTF-8</b> (abréviation de l’anglais <i><a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">Universal Character Set</a> Transformation Format</i> - 8 <a href="/wiki/Bit_(informatique)" class="mw-redirect" title="Bit (informatique)">bits</a>) est un <a href="/wiki/Codage_de_caract%C3%A8res" class="mw-redirect" title="Codage de caractères">codage de caractères</a> <a href="/wiki/Informatique" title="Informatique">informatiques</a> conçu pour coder l’ensemble des caractères du «&#160;répertoire universel de caractères codés&#160;», initialement développé par l’<a href="/wiki/ISO" class="mw-redirect" title="ISO">ISO</a> dans la norme internationale <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a>, aujourd’hui totalement compatible avec le standard <a href="/wiki/Unicode" title="Unicode">Unicode</a>, en restant compatible avec la norme <a href="/wiki/American_Standard_Code_for_Information_Interchange" title="American Standard Code for Information Interchange">ASCII</a> limitée à l’anglais de base (et quelques autres langues beaucoup moins fréquentes), mais très largement répandue depuis des décennies.</p>
+<p>L’UTF-8 est utilisé par 82,2&#160;% des sites web en décembre 2014<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>, puis 87.6% en 2016 <sup id="cite_ref-W3Techs_2-0" class="reference"><a href="#cite_note-W3Techs-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup> Par sa nature, UTF-8 est d’un usage de plus en plus courant sur Internet, et dans les systèmes devant échanger de l'information. Il s’agit également du codage le plus utilisé dans les systèmes <a href="/wiki/GNU" title="GNU">GNU</a>, <a href="/wiki/Linux" title="Linux">Linux</a> et compatibles pour gérer le plus simplement possible des textes et leurs traductions dans tous les systèmes d’écritures et tous les alphabets du monde.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Sommaire</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Liens_avec_la_norme_internationale_ISO.2FCEI_10646_et_les_standards_Unicode_et_d.E2.80.99Internet"><span class="tocnumber">1</span> <span class="toctext">Liens avec la norme internationale ISO/CEI 10646 et les standards Unicode et d’Internet</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description_technique"><span class="tocnumber">2</span> <span class="toctext">Description technique</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Exemples"><span class="tocnumber">3.1</span> <span class="toctext">Exemples</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Caract.C3.A9ristiques"><span class="tocnumber">3.2</span> <span class="toctext">Caractéristiques</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Principe_et_unicit.C3.A9_du_codage"><span class="tocnumber">3.2.1</span> <span class="toctext">Principe et unicité du codage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Types_d.E2.80.99octets.2C_s.C3.A9quences_valides_et_d.C3.A9codage"><span class="tocnumber">3.3</span> <span class="toctext">Types d’octets, séquences valides et décodage</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#S.C3.A9quences_interdites"><span class="tocnumber">3.4</span> <span class="toctext">Séquences interdites</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Avantages"><span class="tocnumber">4</span> <span class="toctext">Avantages</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Inconv.C3.A9nients"><span class="tocnumber">5</span> <span class="toctext">Inconvénients</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Histoire"><span class="tocnumber">6</span> <span class="toctext">Histoire</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#.C3.89volution_des_usages"><span class="tocnumber">6.1</span> <span class="toctext">Évolution des usages</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Restrictions_successives"><span class="tocnumber">6.2</span> <span class="toctext">Restrictions successives</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Prise_en_charge"><span class="tocnumber">6.3</span> <span class="toctext">Prise en charge</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Extensions_non_standards"><span class="tocnumber">6.4</span> <span class="toctext">Extensions non standards</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Exemple_de_variante_utilis.C3.A9e_en_Java"><span class="tocnumber">6.4.1</span> <span class="toctext">Exemple de variante utilisée en Java</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">7</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Voir_aussi"><span class="tocnumber">8</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Articles_connexes"><span class="tocnumber">8.1</span> <span class="toctext">Articles connexes</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Blocs_de_caract.C3.A8res_Unicode_sp.C3.A9ciaux_contenant_des_non-caract.C3.A8res"><span class="tocnumber">8.1.1</span> <span class="toctext">Blocs de caractères Unicode spéciaux contenant des non-caractères</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Liens_externes"><span class="tocnumber">8.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Liens_avec_la_norme_internationale_ISO.2FCEI_10646_et_les_standards_Unicode_et_d.E2.80.99Internet">Liens avec la norme internationale ISO/CEI 10646 et les standards Unicode et d’Internet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Liens avec la norme internationale ISO/CEI 10646 et les standards Unicode et d’Internet">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=1" title="Modifier la section : Liens avec la norme internationale ISO/CEI 10646 et les standards Unicode et d’Internet">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>UTF-8 est un «&#160;format de transformation&#160;» issu à l’origine des travaux pour la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a>, c’est-à-dire que UTF-8 définit un codage pour tout point de code scalaire (<a href="/wiki/Caract%C3%A8re_(informatique)" title="Caractère (informatique)">caractère</a> abstrait ou «&#160;non-caractère&#160;») du répertoire du jeu universel de caractères codés (<i>Universal Character Set</i>, ou <i>UCS</i>). Ce répertoire est aujourd’hui commun à la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> (depuis sa révision 1) et au standard <a href="/wiki/Unicode" title="Unicode">Unicode</a> (depuis sa version 1.1).</p>
+<p>UTF-8 est officiellement défini dans la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> depuis son adoption dans un amendement publié en 1996. Il fut aussi décrit dans le standard <a href="/wiki/Unicode" title="Unicode">Unicode</a> et fait partie de ce standard depuis la version 3.0 publiée en 2000. En 1996 fut publiée la RFC&#160;2044<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup> («&#160;<i>UTF-8, a transformation format of ISO 10646</i>&#160;») dans le but de fournir une spécification accessible d’UTF-8 et d’entamer sa standardisation au sein de l’<i><a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">Internet Engineering Task Force</a></i> (IETF). Cette RFC fut révisée en 1998 (RFC&#160;2279<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup>) puis finalement en 2003 (RFC&#160;3629<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>), cette dernière version faisant d’UTF-8 un des <a href="/wiki/Standards_Internet" class="mw-redirect" title="Standards Internet">standards de l'internet</a> (STD 63).</p>
+<h2><span class="mw-headline" id="Description_technique">Description technique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Description technique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=2" title="Modifier la section : Description technique">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Techniquement, il s’agit de <a href="/wiki/Codage_de_caract%C3%A8res" class="mw-redirect" title="Codage de caractères">coder</a> les caractères <a href="/wiki/Unicode" title="Unicode">Unicode</a> sous forme de séquences de un à quatre <a href="/wiki/Codet" title="Codet">codets</a> d’un <a href="/wiki/Octet" title="Octet">octet</a> chacun. La norme Unicode définit entre autres un ensemble (ou répertoire) de caractères. Chaque caractère est repéré dans cet ensemble par un index entier aussi appelé «&#160;point de code&#160;». Par exemple le caractère «&#160;€&#160;» (<a href="/wiki/Euro_(symbole)" class="mw-redirect" title="Euro (symbole)">euro</a>) est le 8365<sup>e</sup> caractère du répertoire Unicode, son index, ou point de code, est donc 8364 (on commence à compter à partir de 0).</p>
+<p>Le répertoire Unicode peut contenir plus d’un million de caractères, ce qui est bien trop grand pour être codé par un seul <a href="/wiki/Octet" title="Octet">octet</a> (limité à des valeurs entre 0 et 255). La norme Unicode définit donc des méthodes standardisées pour coder et stocker cet index sous forme de séquence d’octets&#160;: UTF-8 est l'une d’entre elles, avec <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a>, <a href="/wiki/UTF-32" title="UTF-32">UTF-32</a> et leurs différentes variantes.</p>
+<p>La principale caractéristique d’UTF-8 est qu’elle est rétro-compatible avec la norme ASCII, c’est-à-dire que tout caractère ASCII se code en UTF-8 sous forme d’un unique octet, identique au code ASCII. Par exemple «&#160;A&#160;» (A majuscule) a pour code ASCII 65 et se code en UTF-8 par l'octet 65. Chaque caractère dont le point de code est supérieur à 127 (caractère non ASCII) se code sur 2 à 4 octets. Le caractère «&#160;€&#160;» (euro) se code par exemple sur 3 octets&#160;: 226, 130, et 172.</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Description">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=3" title="Modifier la section : Description">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le numéro (valeur scalaire) de chaque point de code dans le jeu universel de caractères (UCS) est donné par la <a href="/wiki/Norme" title="Norme">norme</a> <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> qui assigne un point de code à chaque caractère valide, puis permet leur codage en leur attribuant une valeur scalaire identique au point de code&#160;; cette norme est reprise dans le <a href="/wiki/Standard_industriel" class="mw-redirect" title="Standard industriel">standard</a> <a href="/wiki/Unicode" title="Unicode">Unicode</a> (qui utilise depuis la version 1.1 le même répertoire).</p>
+<p>Tous les «&#160;points de code&#160;» (<i>code points</i> en anglais) de U+0000 à U+D7FF et de U+E000 à U+10FFFF sont représentables en UTF-8 — même ceux qui sont attribués à des «&#160;non-caractères&#160;» (<i>non-character</i>) et tous ceux qui ne sont pas encore attribués — et uniquement ceux-là. Les seuls points de codes valides dans l’espace de l’UCS et qui ne doivent pas être représentés dans UTF-8 sont ceux qui sont attribués aux «&#160;demi-<a href="/wiki/Codets" class="mw-redirect" title="Codets">codets</a>&#160;» (<i>surrogates</i> en anglais), car ils ne sont pas représentables de façon bijective dans le codage <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> et ne sont pas non plus par eux-mêmes des caractères&#160;: contrairement aux autres points de codes, les demi-codets n’ont donc <i>pas</i> de «&#160;valeur scalaire&#160;» (<i>scalar value</i> en anglais) définie.</p>
+<p>Les points de code ayant une valeur scalaire de 0 à 127 (points de codes U+0000 à U+007F, attribués aux caractères du jeu codé sur 7 bits dans l’ASCII) sont codés sur un seul <a href="/wiki/Octet" title="Octet">octet</a> dont le <a href="/wiki/Bit_(informatique)" class="mw-redirect" title="Bit (informatique)">bit</a> de poids fort est nul.</p>
+<p>Les autres points de code (attribués ou non à des caractères) ayant une valeur scalaire supérieure à 127 (sauf ceux auxquels sont attribués des «&#160;demi-codets&#160;» qui ne sont pas eux-mêmes des caractères) sont codés sur plusieurs octets ayant chacun leur bit de poids fort non nul&#160;: les bits de poids fort du premier octet de la séquence codée forment une suite de <tt>1</tt> de longueur égale au nombre total d’octets (au moins 2) utilisés pour la séquence entière suivie d'un <tt>0</tt> et les octets suivants nécessaires ont leurs deux bits de poids fort positionnés à <tt>10</tt>.</p>
+<table class="wikitable">
+<caption><b>Définition du nombre d’octets utilisés dans le codage (uniquement les séquences valides)</b></caption>
+<tr>
+<th scope="col">Caractères codés</th>
+<th scope="col">Représentation binaire UTF-8</th>
+<th scope="col">Premier octet valide (hexadécimal)</th>
+<th scope="col">Signification</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+0000 à U+007F</th>
+<td><tt><b>0</b><span style="background:#0F0">xxxxxxx</span></tt></td>
+<td>00 à 7F</td>
+<td>1 octet codant 1 à 7 bits</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+0080 à U+07FF</th>
+<td><tt><b>110</b><var style="background:#0F0">xxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>C2 à DF</td>
+<td>2 octets codant 8 à 11 bits</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+0800 à U+0FFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">0000</var> <b>10</b><var style="background:#0F0">1xxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>E0 (le <abbr class="abbr" title="Deuxième">2<sup>e</sup></abbr>&#160;octet est restreint de A0 à BF)</td>
+<td rowspan="8">3 octets codant 12 à 16 bits</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+1000 à U+1FFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">0001</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>E1</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+2000 à U+3FFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">001x</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>E2 à E3</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+4000 à U+7FFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">01xx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>E4 à E7</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+8000 à U+BFFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">10xx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>E8 à EB</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+C000 à U+CFFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">1100</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>EC</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+D000 à U+D7FF</th>
+<td><tt><b>1110</b><var style="background:#0F0">1101</var> <b>10</b><var style="background:#0F0">0xxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>ED (le <abbr class="abbr" title="Deuxième">2<sup>e</sup></abbr>&#160;octet est restreint de 80 à 9F)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+E000 à U+FFFF</th>
+<td><tt><b>1110</b><var style="background:#0F0">111x</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>EE à EF</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+10000 à U+1FFFF</th>
+<td><tt><b>11110</b><var style="background:#0F0">000</var> <b>10</b><var style="background:#0F0">01xxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td rowspan="2">F0 (le <abbr class="abbr" title="Deuxième">2<sup>e</sup></abbr>&#160;octet est restreint de 90 à BF)</td>
+<td rowspan="5">4 octets codant 17 à 21 bits</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+20000 à U+3FFFF</th>
+<td><tt><b>11110</b><var style="background:#0F0">000</var> <b>10</b><var style="background:#0F0">1xxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+40000 à U+7FFFF</th>
+<td><tt><b>11110</b><var style="background:#0F0">001</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>F1</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+80000 à U+FFFFF</th>
+<td><tt><b>11110</b><var style="background:#0F0">01x</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>F2 à F3</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center">U+100000 à U+10FFFF</th>
+<td><tt><b>11110</b><var style="background:#0F0">100</var> <b>10</b><var style="background:#0F0">00xxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var> <b>10</b><var style="background:#0F0">xxxxxx</var></tt></td>
+<td>F4 (le <abbr class="abbr" title="Deuxième">2<sup>e</sup></abbr>&#160;octet est restreint de 80 à 8F)</td>
+</tr>
+</table>
+<p>Ce principe pourrait être étendu jusqu’à huit octets pour un seul point de code (pour représenter des points de code comprenant jusqu’à 42 bits), mais la version normalisée actuelle d’UTF-8 pose la limite à quatre<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>.</p>
+<p>Le codage interdit la représentation des points de code réservés aux <i>demi-codets</i> (qui n’ont pas de valeur scalaire définie, afin de préserver la compatibilité avec <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> qui ne permet pas non plus de les représenter). Il autorise cependant la représentation des points de code assignés à des <i>non-caractères</i> (alors même que leur présence est interdite dans un texte conforme).</p>
+<h3><span class="mw-headline" id="Exemples">Exemples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Exemples">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=4" title="Modifier la section : Exemples">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%;line-height:1.2">
+<caption><b>Exemples de codage UTF-8</b></caption>
+<tr>
+<th scope="col" rowspan="2">Type</th>
+<th scope="col" rowspan="2">Caractère</th>
+<th scope="col" rowspan="2">Point de code<br />
+(hexadécimal)</th>
+<th scope="col" colspan="2">Valeur scalaire</th>
+<th scope="col" colspan="2">Codage UTF-8</th>
+</tr>
+<tr>
+<th scope="col">décimal</th>
+<th scope="col">binaire</th>
+<th scope="col">binaire</th>
+<th scope="col">hexadécimal</th>
+</tr>
+<tr>
+<td rowspan="2">Contrôles</td>
+<td style="text-align:center"><small><tt>[NUL]</tt></small></td>
+<td style="text-align:right"><tt>U+0000</tt></td>
+<td style="text-align:right">0</td>
+<td style="text-align:right"><tt><i>0000000</i></tt></td>
+<td><tt><b>0</b><i>0000000</i></tt></td>
+<td><tt>00</tt></td>
+</tr>
+<tr>
+<td style="text-align:center"><small><tt>[US]</tt></small></td>
+<td style="text-align:right"><tt>U+001F</tt></td>
+<td style="text-align:right">31</td>
+<td style="text-align:right"><tt><i>00</i>11111</tt></td>
+<td><tt><b>0</b><i>00</i>11111</tt></td>
+<td><tt>1F</tt></td>
+</tr>
+<tr>
+<td rowspan="3">Texte</td>
+<td style="text-align:center"><small><tt>[SP]</tt></small></td>
+<td style="text-align:right"><tt>U+0020</tt></td>
+<td style="text-align:right">32</td>
+<td style="text-align:right"><tt><i>0</i>100000</tt></td>
+<td><tt><b>0</b><i>0</i>100000</tt></td>
+<td><tt>20</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">A</td>
+<td style="text-align:right"><tt>U+0041</tt></td>
+<td style="text-align:right">65</td>
+<td style="text-align:right"><tt>1000001</tt></td>
+<td><tt><b>0</b>1000001</tt></td>
+<td><tt>41</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">~</td>
+<td style="text-align:right"><tt>U+007E</tt></td>
+<td style="text-align:right">126</td>
+<td style="text-align:right"><tt>1111110</tt></td>
+<td><tt><b>0</b>1111110</tt></td>
+<td><tt>7E</tt></td>
+</tr>
+<tr>
+<td rowspan="3">Contrôles</td>
+<td style="text-align:center"><small><tt>[DEL]</tt></small></td>
+<td style="text-align:right"><tt>U+007F</tt></td>
+<td style="text-align:right">127</td>
+<td style="text-align:right"><tt>1111111</tt></td>
+<td><tt><b>0</b>1111111</tt></td>
+<td><tt>7F</tt></td>
+</tr>
+<tr>
+<td style="text-align:center"><small><tt>[PAD]</tt></small></td>
+<td style="text-align:right"><tt>U+0080</tt></td>
+<td style="text-align:right">128</td>
+<td style="text-align:right"><tt><i>000</i>10 000000</tt></td>
+<td><tt><b>110</b><i>000</i>10 <b>10</b>000000</tt></td>
+<td><tt>C2 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center"><small><tt>[APC]</tt></small></td>
+<td style="text-align:right"><tt>U+009F</tt></td>
+<td style="text-align:right">159</td>
+<td style="text-align:right"><tt><i>000</i>10 011111</tt></td>
+<td><tt><b>110</b><i>000</i>10 <b>10</b>011111</tt></td>
+<td><tt>C2 9F</tt></td>
+</tr>
+<tr>
+<td rowspan="6">Texte</td>
+<td style="text-align:center"><small><tt>[NBSP]</tt></small></td>
+<td style="text-align:right"><tt>U+00A0</tt></td>
+<td style="text-align:right">160</td>
+<td style="text-align:right"><tt><i>000</i>10 100000</tt></td>
+<td><tt><b>110</b><i>000</i>10 <b>10</b>100000</tt></td>
+<td><tt>C2 A0</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">é</td>
+<td style="text-align:right"><tt>U+00E9</tt></td>
+<td style="text-align:right">233</td>
+<td style="text-align:right"><tt><i>000</i>11 101001</tt></td>
+<td><tt><b>110</b><i>00</i>011 <b>10</b>101001</tt></td>
+<td><tt>C3 A9</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">߿</td>
+<td style="text-align:right"><tt>U+07FF</tt></td>
+<td style="text-align:right">2047</td>
+<td style="text-align:right"><tt>11111 111111</tt></td>
+<td><tt><b>110</b>11111 <b>10</b>111111</tt></td>
+<td><tt>DF BF</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">ࠀ</td>
+<td style="text-align:right"><tt>U+0800</tt></td>
+<td style="text-align:right">2048</td>
+<td style="text-align:right"><tt><i>0000</i> 100000 000000</tt></td>
+<td><tt><b>1110</b><i>0000</i> <b>10</b>100000 <b>10</b>000000</tt></td>
+<td><tt>E0 A0 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">€</td>
+<td style="text-align:right"><tt>U+20AC</tt></td>
+<td style="text-align:right">8&#160;364</td>
+<td style="text-align:right"><tt><i>00</i>10 000010 101100</tt></td>
+<td><tt><b>1110</b><i>00</i>10 <b>10</b>000010 <b>10</b>101100</tt></td>
+<td><tt>E2 82 AC</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">퟿</td>
+<td style="text-align:right"><tt>U+D7FF</tt></td>
+<td style="text-align:right">55&#160;295</td>
+<td style="text-align:right"><tt>1101 011111 111111</tt></td>
+<td><tt><b>1110</b>1101 <b>10</b>011111 <b>10</b>111111</tt></td>
+<td><tt>ED 9F BF</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Demi-codets</i></td>
+<td style="text-align:right"><tt>U+D800</tt></td>
+<td rowspan="2" colspan="2" style="text-align:center"><i>(néant)</i></td>
+<td rowspan="2" colspan="2" style="text-align:center"><i>(codage interdit)</i></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+DFFF</tt></td>
+</tr>
+<tr>
+<td rowspan="2"><i>Usage privé</i></td>
+<td style="text-align:center">[]</td>
+<td style="text-align:right"><tt>U+E000</tt></td>
+<td style="text-align:right">57&#160;344</td>
+<td style="text-align:right"><tt>1110 000000 000000</tt></td>
+<td><tt><b>1110</b>1110 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>EE 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">[]</td>
+<td style="text-align:right"><tt>U+F8FF</tt></td>
+<td style="text-align:right">63&#160;743</td>
+<td style="text-align:right"><tt>1111 100011 111111</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>100011 <b>10</b>111111</tt></td>
+<td><tt>EF A3 BF</tt></td>
+</tr>
+<tr>
+<td rowspan="2">Texte</td>
+<td style="text-align:center"></td>
+<td style="text-align:right"><tt>U+F900</tt></td>
+<td style="text-align:right">63&#160;744</td>
+<td style="text-align:right"><tt>1111 100100 000000</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>100100 <b>10</b>000000</tt></td>
+<td><tt>EF A4 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">﷏</td>
+<td style="text-align:right"><tt>U+FDCF</tt></td>
+<td style="text-align:right">64&#160;975</td>
+<td style="text-align:right"><tt>1111 110111 001111</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>110111 <b>10</b>001111</tt></td>
+<td><tt>EF B7 8F</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+FDD0</tt></td>
+<td style="text-align:right">64&#160;976</td>
+<td style="text-align:right"><tt>1111 110111 010000</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>110111 <b>10</b>010000</tt></td>
+<td><tt>EF B7 90</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+FDEF</tt></td>
+<td style="text-align:right">65&#160;007</td>
+<td style="text-align:right"><tt>1111 110111 101111</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>110111 <b>10</b>101111</tt></td>
+<td><tt>EF B7 AF</tt></td>
+</tr>
+<tr>
+<td rowspan="2">Texte</td>
+<td style="text-align:center">ﷰ</td>
+<td style="text-align:right"><tt>U+FDF0</tt></td>
+<td style="text-align:right">65&#160;008</td>
+<td style="text-align:right"><tt>1111 110111 110000</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>110111 <b>10</b>110000</tt></td>
+<td><tt>EF B7 B0</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">�</td>
+<td style="text-align:right"><tt>U+FFFD</tt></td>
+<td style="text-align:right">65&#160;533</td>
+<td style="text-align:right"><tt>1111 111111 111101</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>EF BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+FFFE</tt></td>
+<td style="text-align:right">65&#160;534</td>
+<td style="text-align:right"><tt>1111 111111 111110</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>EF BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+FFFF</tt></td>
+<td style="text-align:right">65&#160;535</td>
+<td style="text-align:right"><tt>1111 111111 111111</tt></td>
+<td><tt><b>1110</b>1111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>EF BF BF</tt></td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td rowspan="3">Texte</td>
+<td style="text-align:center">𐀀</td>
+<td style="text-align:right"><tt>U+10000</tt></td>
+<td style="text-align:right">65&#160;536</td>
+<td style="text-align:right"><tt><i>000 0</i>10000 000000 000000</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b><i>0</i>10000 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>F0 90 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">𝄞</td>
+<td style="text-align:right"><tt>U+1D11E</tt></td>
+<td style="text-align:right">119&#160;070</td>
+<td style="text-align:right"><tt><i>000 0</i>11101 000100 011110</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b><i>0</i>11101 <b>10</b>000100 <b>10</b>011110</tt></td>
+<td><tt>F0 9D 84 9E</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">🿽</td>
+<td style="text-align:right"><tt>U+1FFFD</tt></td>
+<td style="text-align:right">131&#160;069</td>
+<td style="text-align:right"><tt><i>000 0</i>11111 111111 111101</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b><i>0</i>11111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>F0 9F BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+1FFFE</tt></td>
+<td style="text-align:right">131&#160;070</td>
+<td style="text-align:right"><tt><i>000 0</i>11111 111111 111110</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b><i>0</i>11111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>F0 9F BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+1FFFF</tt></td>
+<td style="text-align:right">131&#160;071</td>
+<td style="text-align:right"><tt><i>000 0</i>11111 111111 111111</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b><i>0</i>11111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>F0 9F BF BF</tt></td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td rowspan="2">Texte</td>
+<td style="text-align:center">𠀀</td>
+<td style="text-align:right"><tt>U+20000</tt></td>
+<td style="text-align:right">131&#160;072</td>
+<td style="text-align:right"><tt><i>000</i> 100000 000000 000000</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b>100000 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>F0 A0 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">𯿽</td>
+<td style="text-align:right"><tt>U+2FFFD</tt></td>
+<td style="text-align:right">196&#160;605</td>
+<td style="text-align:right"><tt><i>000</i> 101111 111111 111101</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b>101111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>F0 AF BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+2FFFE</tt></td>
+<td style="text-align:right">196&#160;606</td>
+<td style="text-align:right"><tt><i>000</i> 101111 111111 111110</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b>101111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>F0 AF BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+2FFFF</tt></td>
+<td style="text-align:right">196&#160;607</td>
+<td style="text-align:right"><tt><i>000</i> 101111 111111 111111</tt></td>
+<td><tt><b>11110</b><i>000</i> <b>10</b>101111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>F0 AF BF BF</tt></td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td colspan="7" style="text-align:center">...<i>autres plans réservés</i>...</td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td rowspan="2">Spéciaux</td>
+<td style="text-align:center">󠀀</td>
+<td style="text-align:right"><tt>U+E0000</tt></td>
+<td style="text-align:right">917&#160;504</td>
+<td style="text-align:right"><tt><i>0</i>11 100000 000000 000000</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>100000 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>F3 A0 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">󯿽</td>
+<td style="text-align:right"><tt>U+EFFFD</tt></td>
+<td style="text-align:right">983&#160;037</td>
+<td style="text-align:right"><tt><i>0</i>11 101111 111111 111101</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>101111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>F3 AF BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+EFFFE</tt></td>
+<td style="text-align:right">983&#160;038</td>
+<td style="text-align:right"><tt><i>0</i>11 101111 111111 111110</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>101111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>F3 AF BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+EFFFF</tt></td>
+<td style="text-align:right">983&#160;039</td>
+<td style="text-align:right"><tt><i>0</i>11 101111 111111 111111</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>101111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>F3 AF BF BF</tt></td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td rowspan="2"><i>Usage privé</i></td>
+<td style="text-align:center">[󰀀]</td>
+<td style="text-align:right"><tt>U+F0000</tt></td>
+<td style="text-align:right">983&#160;040</td>
+<td style="text-align:right"><tt><i>0</i>11 110000 000000 000000</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>110000 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>F3 B0 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">[󿿽]</td>
+<td style="text-align:right"><tt>U+FFFFD</tt></td>
+<td style="text-align:right">1&#160;048&#160;573</td>
+<td style="text-align:right"><tt><i>0</i>11 111111 111111 111101</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>111111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>F3 BF BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+FFFFE</tt></td>
+<td style="text-align:right">1&#160;048&#160;574</td>
+<td style="text-align:right"><tt><i>0</i>11 111111 111111 111110</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>111111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>F3 BF BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+FFFFF</tt></td>
+<td style="text-align:right">1&#160;048&#160;575</td>
+<td style="text-align:right"><tt><i>0</i>11 111111 111111 111111</tt></td>
+<td><tt><b>11110</b><i>0</i>11 <b>10</b>111111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>F3 BF BF BF</tt></td>
+</tr>
+<tr>
+<td colspan="7" style="font-size:1px;line-height:1">&#160;</td>
+</tr>
+<tr>
+<td rowspan="2"><i>Usage privé</i></td>
+<td style="text-align:center">[􀀀]</td>
+<td style="text-align:right"><tt>U+100000</tt></td>
+<td style="text-align:right">1&#160;048&#160;576</td>
+<td style="text-align:right"><tt>100 000000 000000 000000</tt></td>
+<td><tt><b>11110</b>100 <b>10</b>000000 <b>10</b>000000 <b>10</b>000000</tt></td>
+<td><tt>F4 80 80 80</tt></td>
+</tr>
+<tr>
+<td style="text-align:center">[􏿽]</td>
+<td style="text-align:right"><tt>U+10FFFD</tt></td>
+<td style="text-align:right">1&#160;114&#160;109</td>
+<td style="text-align:right"><tt>100 001111 111111 111101</tt></td>
+<td><tt><b>11110</b>100 <b>10</b>001111 <b>10</b>111111 <b>10</b>111101</tt></td>
+<td><tt>F4 8F BF BD</tt></td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2" style="text-align:center"><i>Non-caractères</i></td>
+<td style="text-align:right"><tt>U+10FFFE</tt></td>
+<td style="text-align:right">1&#160;114&#160;110</td>
+<td style="text-align:right"><tt>100 001111 111111 111110</tt></td>
+<td><tt><b>11110</b>100 <b>10</b>001111 <b>10</b>111111 <b>10</b>111110</tt></td>
+<td><tt>F4 8F BF BE</tt></td>
+</tr>
+<tr>
+<td style="text-align:right"><tt>U+10FFFF</tt></td>
+<td style="text-align:right">1&#160;114&#160;111</td>
+<td style="text-align:right"><tt>100 001111 111111 111111</tt></td>
+<td><tt><b>11110</b>100 <b>10</b>001111 <b>10</b>111111 <b>10</b>111111</tt></td>
+<td><tt>F4 8F BF BF</tt></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Caract.C3.A9ristiques">Caractéristiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Caractéristiques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=5" title="Modifier la section : Caractéristiques">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dans toute <a href="/wiki/Cha%C3%AEne_de_caract%C3%A8res" title="Chaîne de caractères">chaîne de caractères</a> codée en UTF-8, on remarque que&#160;:</p>
+<ul>
+<li>tout octet de bit de poids fort nul désigne un unique «&#160;point de code&#160;» assigné à un caractère du répertoire de l’US-ASCII et codé sur ce seul octet, d’une valeur scalaire identique à celle du codet utilisé dans le codage US-ASCII&#160;;</li>
+<li>tout octet de bits de poids fort valant <tt>11</tt> est le premier octet d’une séquence unique représentant un «&#160;point de code&#160;» (assigné à un caractère ou un non-caractère) et codé sur plusieurs octets&#160;;</li>
+<li>tout octet de bits de poids fort valant <tt>10</tt> est un des octets suivants d’une séquence unique représentant un «&#160;point de code&#160;» (assigné à un caractère ou un non-caractère) et codé sur plusieurs octets&#160;;</li>
+<li>aucun octet ne peut prendre une valeur hexadécimale entre <tt>C0</tt> et <tt>C1</tt>, ni entre <tt>F5</tt> et <tt>FF</tt> (le plus haut point de code valide et assigné à un caractère représentable est U+10FFFD&#160;; c’est un caractère à usage privé alloué dans le <abbr class="abbr" title="Dix-septième">17<sup>e</sup></abbr>&#160;plan valide).</li>
+</ul>
+<p>Le plus grand point de code valide assignable à un caractère valide <i>non privé</i> est U+EFFFD dans le <abbr class="abbr" title="Quinzième">15<sup>e</sup></abbr>&#160;plan (il n’est pas encore assigné mais peut le devenir dans l’avenir), mais le codage UTF-8 peut être utilisé aussi, de façon conforme aux normes, pour représenter n’importe caractère valide à usage privé (dans une des trois plages U+E000 à U+F8FF, U+F0000 à U+FFFFD, et U+100000 à U+10FFFD).</p>
+<p>L’acceptation ou non des <i>non-caractères</i> ou des <i>caractères d’usage privé</i> est laissée aux applications ou protocoles de transport de texte. Cependant les <i>non-caractères</i> ne sont normalement pas acceptés dans des textes strictement conformes au standard <a href="/wiki/Unicode" title="Unicode">Unicode</a> où à la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a>.</p>
+<p>Certaines applications imposent des restrictions supplémentaires sur les points de code utilisables (par exemple, les standards <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> et <a href="/wiki/Extensible_Markup_Language" title="Extensible Markup Language">XML</a> interdisent, dans tout document conforme à ces spécifications, la présence de la plupart des caractères de contrôle entre U+0000 et U+001F et entre U+0080 et U+009F, en dehors du contrôle de la tabulation U+0009 considéré comme un caractère blanc, et interdisent aussi les <i>non-caractères</i>).</p>
+<p>Tout point de code est toujours représenté par exactement la même séquence binaire, quelle que soit sa position relative dans le texte, et ces séquences sont autosynchronisées sur la position indivise des codets significatifs (ici les octets&#160;: on peut toujours savoir si un octet débute ou non une séquence binaire effective)&#160;; ce codage autorise donc les algorithmes rapides de recherche de texte, tels que l’<a href="/wiki/Algorithme_de_Boyer-Moore" title="Algorithme de Boyer-Moore">algorithme de Boyer-Moore</a>.</p>
+<p>Ce n’est pas toujours le cas des codages contextuels (qui utilisent généralement la <a href="/wiki/Compression_de_donn%C3%A9es" title="Compression de données">compression de données</a>, par exemple <a href="/wiki/Standard_Compression_Scheme_for_Unicode" title="Standard Compression Scheme for Unicode">SCSU</a> défini dans la note technique standard UTS#6 optionnelle complétant le standard Unicode) et qui peuvent nécessiter de lire le texte complètement depuis le début, ni des codages basés sur plus d’une seule variable d’état (ou qui incorporent des codes supplémentaires de redondance)&#160;; au mieux certains de ces codages peuvent demander d’utiliser des algorithmes complexes de resynchronisation, basés souvent sur des <a href="/wiki/Heuristique" class="mw-disambig" title="Heuristique">heuristiques</a> qui peuvent échouer ou conduire à de fausses interprétations si on ne lit pas le texte depuis le début (par exemple <a href="/wiki/Binary_Ordered_Compression_for_Unicode" title="Binary Ordered Compression for Unicode">BOCU</a>-1).</p>
+<h4><span class="mw-headline" id="Principe_et_unicit.C3.A9_du_codage">Principe et unicité du codage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Principe et unicité du codage">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=6" title="Modifier la section : Principe et unicité du codage">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Dans le tableau ci-dessus, on voit que le caractère «&#160;€&#160;» se trouve au point de code 8364, soit en binaire&#160;: <tt><i>00</i>100000 10101100</tt>.</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo fence="false" stretchy="false">&#x2308;<!-- ⌈ --></mo>
+        <mi>l</mi>
+        <mi>o</mi>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mn>8364</mn>
+        <mo fence="false" stretchy="false">&#x2309;<!-- ⌉ --></mo>
+        <mo>=</mo>
+        <mn>14</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lceil log_{2}8364\rceil =14}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/924a68c87fa84f11dacd6e9e5850315f05afe3e1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.255ex; height:2.843ex;" alt="\lceil log_{{2}}8364\rceil =14" /></span> donc 14 bits au moins sont nécessaires pour encoder le caractère «&#160;€&#160;». La norme présentée ci-dessus impose en réalité trois octets pour représenter ces caractères.</p>
+<p>Avec quatre octets à disposition, il serait possible de placer selon cette norme jusqu’à 21 bits, donc en particulier de représenter le caractère «&#160;€&#160;». Toutefois, la norme dispose qu’un programme décodant l’UTF-8&#160;ne doit pas accepter de chaînes d’octets inutilement longues comme dans cet exemple, ce pour des raisons de sécurité (éviter l’exploitation de tests de sous-chaînes trop tolérants)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite_crochet">[</span>7<span class="cite_crochet">]</span></a></sup>. Ainsi «&#160;€&#160;» se codera&#160;: <tt><b>1110</b>0010 <b>10</b>000010 <b>10</b>101100</tt>, mais le codage <tt><b>11110</b>000 <b>10</b>000010 <b>10</b>000010 <b>10</b>101100</tt>, bien qu’univoque, ne doit pas être utilisé.</p>
+<p>Une telle forme plus longue que nécessaire s’appelle en anglais <i><span class="lang-en" lang="en">overlong</span></i>. De telles formes (initialement autorisées dans des spécifications anciennes avant qu’elles soient normalisées successivement par la RFC initiale publiée par le Consortium <a href="/wiki/X/Open" title="X/Open">X/Open</a>, puis parallèlement par la norme ISO 10646 et le standard Unicode) sont interdites et doivent être traitées comme invalides.</p>
+<h3><span class="mw-headline" id="Types_d.E2.80.99octets.2C_s.C3.A9quences_valides_et_d.C3.A9codage">Types d’octets, séquences valides et décodage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Types d’octets, séquences valides et décodage">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=7" title="Modifier la section : Types d’octets, séquences valides et décodage">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Le codage est prédictif et permet toujours de retrouver la position du premier octet d’une séquence représentant un point de code, à partir de la valeur d’un octet quelconque et de la lecture d’un nombre limité d’octets voisins, dans les deux directions de lecture (ce sera toujours l’octet lui-même, ou le premier éligible dans un des 1 à 3 octets voisins).</p>
+<ul>
+<li>Tout octet de continuation dans une séquence UTF-8 valide ne peut prendre que les valeurs hexadécimales <b>80 à BF</b>&#160;;
+<ul>
+<li>il ne peut exister qu’à la suite d’un octet de début de séquence (représentant un point de code), qui sera le dernier codé dans un des 1 à 3 octets précédents et qui n’est pas non plus un octet de continuation&#160;;</li>
+<li>le point de code suivant, s’il y en a un, ne peut commencer au maximum que dans les 1 à 3 octets suivants.</li>
+</ul>
+</li>
+<li>Le premier octet d’une séquence UTF-8 valide ne peut prendre que les valeurs hexadécimales <b>00 à 7F ou C2 à F4</b>&#160;:
+<ul>
+<li>le premier octet hexadécimal <b>00 à 7F</b> d’une séquence n’est suivi d’<b>aucun</b> octet de continuation&#160;;</li>
+<li>le premier octet hexadécimal <b>C2 à DF</b> d’une séquence est toujours suivi d’<b>un seul</b> octet de continuation (chacun de valeur hexadécimale entre 80 et BF)&#160;;</li>
+<li>le premier octet hexadécimal <b>E0 à EF</b> d’une séquence est toujours suivi de <b>deux</b> octets de continuation (chacun de valeur hexadécimale entre 80 et BF)&#160;;
+<ul>
+<li>cependant, si le premier octet d’une séquence prend la valeur hexadécimale <b>E0</b>, le premier octet de continuation est restreint à une valeur hexadécimale entre <b>A0</b> et BF&#160;;</li>
+<li>cependant, si le premier octet d’une séquence prend la valeur hexadécimale <b>ED</b>, le premier octet de continuation est restreint à une valeur hexadécimale entre 80 et <b>9F</b>&#160;;</li>
+</ul>
+</li>
+<li>le premier octet hexadécimal <b>F0 à F4</b> d’une séquence est toujours suivi de <b>trois</b> octets de continuation (chacun de valeur hexadécimale entre 80 et BF)&#160;;
+<ul>
+<li>cependant, si le premier octet d’une séquence prend la valeur hexadécimale <b>F0</b>, le premier octet de continuation est restreint à une valeur hexadécimale entre <b>90</b> et BF&#160;;</li>
+<li>cependant, si le premier octet d’une séquence prend la valeur hexadécimale <b>F4</b>, le premier octet de continuation est restreint à une valeur hexadécimale entre 80 et <b>8F</b>.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="S.C3.A9quences_interdites">Séquences interdites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Séquences interdites">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=8" title="Modifier la section : Séquences interdites">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Les points de code sont toujours représentés par la séquence d’octets la plus courte possible&#160;:
+<ul>
+<li>par conséquent, aucune séquence d’octets ne contient des octets initiaux de valeur hexadécimale <b>C0 ou C1</b> dans un texte valide codé en UTF-8&#160;;</li>
+<li>de même, aucune séquence commençant par l’octet initial <b>E0</b> ne peut avoir un premier octet de continuation de valeur hexadécimale <b>80 à 9F</b>.</li>
+</ul>
+</li>
+<li>Les points de code allant de U+D800 à U+DFFF sont interdits (leur valeur scalaire est réservée pour la représentation UTF-16 des points de code supplémentaires avec des paires de demi-codets)&#160;:
+<ul>
+<li>par conséquent, le premier octet de continuation d’une séquence qui commence par l’octet hexadécimal <b>ED</b> ne peut prendre aucune des valeurs hexadécimales <b>A0 à BF</b>&#160;;</li>
+<li>ces séquences interdites en UTF-8 sont en revanche autorisées dans la transformation <a href="/wiki/CESU-8" title="CESU-8">CESU-8</a> (non recommandée, qui ne doit en aucun cas être confondue avec UTF-8, car CESU-8 utilise ces séquences pour coder les caractères des plans supplémentaires en 2 séquences de 3 octets chacune, au lieu d'une seule séquence de 4 octets en UTF-8).</li>
+</ul>
+</li>
+<li>De même que tout codage pouvant donner un point de code de valeur supérieure à U+10FFFF est interdit&#160;:
+<ul>
+<li>par conséquent, le premier octet de continuation d’une séquence qui commence par l’octet hexadécimal <b>F4</b> ne peut prendre aucune des valeurs hexadécimales <b>90 à BF</b>&#160;;</li>
+<li>et aucune séquence d’octets ne contient des octets initiaux de valeur hexadécimale <b>F5 à FF</b>.</li>
+</ul>
+</li>
+</ul>
+<p>De telles séquences sont dites mal formées (<i>ill-formed</i>). (Voir la référence ci-dessus, notamment la seconde table dans la clause de conformité <i>D36</i> du standard ou l’article <a href="/wiki/Unicode" title="Unicode">Unicode</a>).</p>
+<p>En revanche, les points de code réservés (pas encore alloués à des caractères) sont autorisés (même si l’interprétation des caractères peut rester ambigüe)&#160;: il appartient aux applications de décider si ces caractères sont acceptables ou non, sachant que les mêmes applications continueront probablement à être utilisées alors que ces positions auront été assignées dans les normes Unicode et ISO 10646 à de nouveaux caractères parfaitement valides.</p>
+<p>De même les autres points de code assignés de façon permanente aux autres «&#160;<i>non-caractères</i>&#160;» sont interdits dans les textes conformes à la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> ou au standard <a href="/wiki/Unicode" title="Unicode">Unicode</a>&#160;: par exemple U+<i>x</i>FFFE à U+<i>x</i>FFFF (où x indique un numéro de plan hexadécimal de 0 à 10). Mais ils restent encodables et décodables en tant que tels en UTF-8 (les <i>non-caractères</i> sont à disposition des applications qui peuvent en faire un usage au sein d’API internes, par exemple comme codes intermédiaires nécessaires à l’implémentation de certains traitements).</p>
+<p>La restriction de l’espace de représentation aux seuls points de code inférieurs ou égaux à U+10FFFF (non compris les points de codes assignés aux <i>demi-codets</i>) n’a pas toujours été appliquée&#160;:</p>
+<ul>
+<li>Cela n’a pas toujours été le cas dans la norme ISO/CEI 10646, qui prévoyait à l’origine de pouvoir coder un très grand nombre de plans possibles (l‘UCS-4 permettait un codage jusqu’à 31 bits), alors que Consortium Unicode (depuis la fusion du répertoire commun dans sa version 1.1) n’utilisait encore que le plan multilingue de base et n’avait pas encore envisagé de couvrir autant d’écritures qu’aujourd’hui.</li>
+<li>L’introduction par Unicode du codage UTF-16 dans une annexe standard (quand il a admis que plus de 65536 caractères seraient rapidement nécessaires) a demandé l’allocation préalable par l’ISO/CEI 10646 d’un bloc de points de codes pour des «&#160;demi-codets&#160;» qui étaient considérés au début par l’ISO/CEI 10646 comme des caractères spéciaux (une concession faite à Unicode alors que l’UCS-4 avait été créé comme un espace de codage linéaire où tous les points de code avaient une valeur scalaire), alors qu’Unicode n’utilisait encore que le sous-espace UCS-2 et pas l’espace UCS-4 complet.
+<ul>
+<li>Pour éviter des problèmes d’interopérabilité avec les autres applications (non Unicode) basées sur UCS-2, une première révision de l’UTF-8 a été publiée par l’ISO en 1998, mentionnant que ces demi-codets n’avaient donc pas de valeur scalaire définie et qu’aucun point de code assignés aux «&#160;demi-codets&#160;» dans les deux blocs successifs alloués ne devait pas être encodés en UTF-8.</li>
+</ul>
+</li>
+<li>Mais selon l’accord final intervenu entre le comité technique du Consortium Unicode et celui chargé de la norme ISO/CEI 10646, toute utilisation de plus de 17 plans a été proscrite, afin d’assurer l’interopérabilité totale avec le codage <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> défini par Unicode, un codage déjà massivement déployé dans les systèmes d’exploitation (par exemple <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>), ou sous-systèmes (par exemple <a href="/wiki/OpenType" title="OpenType">OpenType</a>), ou encore dans de nombreux langages de programmation qui en dépendent pour leur interopérabilité (dont certains issus de normes nationales ou internationales, tels que les langages C et C++ qui ont eu des difficultés à supporter le répertoire universel).
+<ul>
+<li>En effet, après une vingtaine d’années d’efforts pour la définition de l’UCS pour toutes les écritures du monde, des règles plus strictes ont été établies pour limiter les caractères encodables selon un modèle assurant une compatibilité ascendante mais aussi de meilleures pratiques de codage. Pratiquement toutes les écritures modernes du monde ont été codées, et on dispose d’estimations fiables de l’ordre de grandeur sur la quantité de caractères nécessaires pour le support des autres écritures, ainsi que sur les besoins de codage pour de nouveaux caractères.</li>
+<li>La croissance initiale très forte des allocations dans l’UCS (ou des caractères restant encore à coder) s’est fortement ralentie, et seulement 6 des 17 plans sont utilisés fin 2011 (mais deux seulement ont un taux de remplissage significatif&#160;: le plan multilingue de base, pratiquement plein, et le plan idéographique supplémentaire&#160;; c’est sur le plan multilingue complémentaire que se concentrent la majorité des autres écritures anciennes restant à encoder, ou des nouveaux ensembles de symboles et caractères de notation technique).</li>
+<li>Le rythme de croissance des allocations dans l’UCS pour la norme ISO/CEI 10646 ne permet pas d’envisager sa saturation avant un terme dépassant de très loin le cycle de vie des normes internationales (et encore plus celui des standards industriels comme Unicode). À ce terme trop lointain, il est tout à fait possible que UTF-16 soit devenu obsolète depuis fort longtemps, ou qu’une nouvelle norme de codification ait vu le jour et ait été massivement déployée (et que les outils de conversion automatique auront aussi été normalisés et déployés). Rien ne justifie encore de maintenir une extension possible non nécessaire au besoin immédiat d’interopérabilité des normes et standards actuels ou des futures normes envisagées.</li>
+<li>Un ou deux autres plans seulement sont envisagés pour les écritures sinographiques, anciennes écritures cunéiformes ou hiéroglyphiques, et éventuellement un autre plan pour des collections de symboles et pictogrammes nécessaires à l’interopérabilité de certaines applications modernes (par exemple les <i>emojis</i> des messageries et services interactifs est-asiatiques, ou des symboles nécessaires à des normes internationales de signalisation ou de sécurité).</li>
+<li>Les «&#160;groupes&#160;» supplémentaires d’usage privé à la fin de l’UCS-4, ainsi que les «&#160;plans&#160;» supplémentaires d’usage privé dans l’UCS-4 à la fin du groupe 0, qui avaient été envisagés par l’ISO depuis le début de ses travaux de normalisation, ont été abandonnés pour ne garder, parmi les 17 premiers plans du premier groupe, que les deux derniers plans à cet usage privé (en plus du bloc d’usage privé U+E000 à U+F8FF déjà alloué dans le plan multilingue de base), ce qui s’avère suffisant pour toutes les applications.</li>
+<li>Cela a fait l‘objet de la révision en 2003 de la RFC publiée par le comité technique de l’ISO définissant le codage UTF-8 pour la norme ISO/CEI 10646, et simultanément d’une mise à jour de l’annexe standard au standard Unicode (une annexe standard qui a, depuis, été intégrée au standard lui-même).</li>
+<li>Depuis ces mises à jour de 2003, le codage UCS-4 défini par la norme ISO/CEI 10646 est devenu en pratique équivalent à <a href="/wiki/UTF-32" title="UTF-32">UTF-32</a> (défini dans la norme Unicode qui adjoint des propriétés supplémentaires mais sans différence de codage). Et la dernière RFC publiée par l’ISO et approuvée par l’IETF en 2003 fait d’ailleurs maintenant une référence normative à la définition de l’UTF-8 publiée conjointement avec (ou dans) le standard Unicode.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Avantages">Avantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Avantages">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=9" title="Modifier la section : Avantages">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Universalité</dt>
+<dd>Ce codage permet de représenter les milliers de caractères du répertoire universel, commun à la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> et au standard <a href="/wiki/Unicode" title="Unicode">Unicode</a> (du moins depuis sa version 1.1).</dd>
+<dt>Compatibilité avec US-ASCII&#160;</dt>
+<dd>Un texte en US-ASCII est codé identiquement en UTF-8 (lorsque le <a href="/wiki/Indicateur_d%27ordre_des_octets" title="Indicateur d'ordre des octets">BOM</a> n’est pas utilisé)</dd>
+<dt><a href="/wiki/Interop%C3%A9rabilit%C3%A9_informatique" class="mw-redirect" title="Interopérabilité informatique">Interopérabilité</a>&#160;</dt>
+<dd>Du fait qu’un caractère est découpé en une suite d’octets (et non en mots de plusieurs octets), il n’y a pas de problème d’<i><a href="/wiki/Endianness" title="Endianness">endianness</a></i> (ou «&#160;<a href="/wiki/Boutisme" class="mw-redirect" title="Boutisme">boutisme</a>&#160;»).
+<ul>
+<li>Ce problème apparaît avec les codages <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> et <a href="/wiki/UTF-32" title="UTF-32">UTF-32</a> par exemple, si on ne les utilise pas avec un marqueur d’ordonnancement (appelé <i>BOM</i> pour <i>Byte Order Mark</i>) codé en début de fichier à l’aide du caractère U+FEFF, qui était auparavant destiné à un autre usage (ZWNBSP pour <i>zero-width non-breaking space</i>, une fonction d’agglutination de mots à afficher sans espace séparatrice ni césure que remplit aujourd’hui le caractère WJ pour <i>word-joiner</i>). En revanche, les codages dérivés UTF-16BE, UTF-16LE, UTF-32BE et UTF-32LE sont conçus avec un ordonnancement précis ne nécessitant l’emploi d’aucun BOM.</li>
+<li>Pour différentes raisons de compatibilité (notamment via des processus de transcodage), il est cependant resté admis qu’un <i>BOM</i> (U+FEFF), non absolument nécessaire, puisse encore être codé en tête d’un fichier UTF-8 (leur interprétation reste celle du caractère ZWNBSP, même si de nombreux protocoles ont choisi d’ignorer et filtrer silencieusement ce caractère puisqu’il ne sert plus qu’à cet usage et que son ancienne fonction, quand elle reste nécessaire à l’interprétation du texte lui-même, est désormais transférée sur un autre caractère codé exprès).</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>Efficacité</dt>
+<dd>Pour la plupart des langues à écriture latine, les fichiers de données numériques ou les codes sources de programmes, ou de nombreux protocoles textuels de communication (comme <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a>, HTTP ou <a href="/wiki/Multipurpose_Internet_Mail_Extensions" title="Multipurpose Internet Mail Extensions">MIME</a>), qui utilisent abondamment (voire parfois exclusivement dans certaines parties) les caractères US-ASCII, UTF-8 nécessite moins d’octets que l’<a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> ou l’<a href="/wiki/UTF-32" title="UTF-32">UTF-32</a>.</dd>
+<dt>Réutilisabilité</dt>
+<dd>De nombreuses techniques de <a href="/wiki/Programmation_informatique" title="Programmation informatique">programmation informatique</a> valables avec les caractères uniformément codés sur un octet le restent avec UTF-8, notamment&#160;:
+<ul>
+<li>la manière de repérer la fin d’une <a href="/wiki/Cha%C3%AEne_de_caract%C3%A8res" title="Chaîne de caractères">chaîne de caractères</a> <a href="/wiki/C_(langage)" title="C (langage)">C</a>, car tout octet binaire 00000000 trouvé dans une chaîne de caractères codés en UTF-8 est toujours le <a href="/w/index.php?title=Caract%C3%A8re_nul&amp;action=edit&amp;redlink=1" class="new" title="Caractère nul (page inexistante)">caractère nul</a> (en revanche il est alors impossible de représenter le caractère NUL lui-même comme membre de la chaîne de caractères, à moins que l’information de longueur effective du texte codé soit stockée ou transportée en dehors de celui-ci, auquel cas cet octet sera interprété comme tel au sein même des chaînes codées en UTF-8).</li>
+<li>la manière de trouver une sous-chaîne est identique.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>Fiabilité</dt>
+<dd>Il s’agit d’un codage auto-synchronisant (en lisant un seul octet on sait si c’est le premier d’un caractère ou non).
+<ul>
+<li>Il est possible, depuis n’importe quelle position dans un texte codé, de remonter au premier octet de la séquence en lisant une toute petite quantité d’octets antérieurs, soit au maximum 3 octets, ou de trouver facilement le début de la séquence suivante, là encore en ne sautant qu’au maximum 3 octets)&#160;;</li>
+<li>Une séquence décrivant un caractère n’apparaît jamais dans une séquence plus longue décrivant un autre caractère (comme c’est le cas de <a href="/wiki/Shift-JIS" title="Shift-JIS">Shift-JIS</a>).</li>
+<li>Il n’existe pas de code «&#160;d’échappement&#160;» changeant l’interprétation (comme caractères) de la suite d’une séquence d’octets.</li>
+</ul>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Inconv.C3.A9nients">Inconvénients</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Inconvénients">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=10" title="Modifier la section : Inconvénients">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Taille variable</dt>
+<dd>Les points de code sont représentés en UTF-8 par des séquences d’octets de taille variable (de même qu’en UTF-16), ce qui rend certaines opérations sur les chaînes de points de code plus compliquées&#160;: le calcul du nombre de points de code&#160;; le positionnement à une distance donnée (exprimée en nombre de points de code) dans un fichier texte et en règle générale toute opération nécessitant l’accès au point de code de position <i>N</i> dans une chaîne.</dd>
+<dd>Une taille variable des caractères d’une chaine empêche l'exploitation d’algorithme efficaces en matière de comparaisons de chaines, telles que l'algorithme de <a href="/wiki/Algorithme_de_Knuth-Morris-Pratt" title="Algorithme de Knuth-Morris-Pratt">Knuth-Morris-Pratt</a> et pénalise donc fortement les traitements de données en masse comme par exemple dans l’exploitation des bases de données. Ce problème est toutefois davantage lié aux aspects de <a href="/wiki/Normalisation_Unicode" title="Normalisation Unicode">normalisation</a> que d’encodage.</dd>
+<dt>Efficacité</dt>
+<dd>Pour les langues utilisant beaucoup de caractères extérieurs à <a href="/wiki/American_Standard_Code_for_Information_Interchange" title="American Standard Code for Information Interchange">US-ASCII</a>, UTF-8 occupe sensiblement plus d’espace.</dd>
+<dd>Par exemple, les idéogrammes courants employés dans les textes de langues asiatiques comme le <a href="/wiki/Langue_chinoise" class="mw-redirect" title="Langue chinoise">chinois</a> ou le <a href="/wiki/Japonais" title="Japonais">japonais</a> (<a href="/wiki/Kanji" title="Kanji">kanji</a>, par exemple) utilisent 3 octets en UTF-8 contre 2 octets en UTF-16.</dd>
+<dd>De manière générale, les écritures employant beaucoup de points de code de valeur égale ou supérieure à U+0800 occupent plus de mémoire que s’ils étaient codés avec UTF-16 (UTF-32 sera plus efficace uniquement pour les textes utilisant majoritairement des écritures anciennes ou rares codées hors du plan multilingue de base, c’est-à-dire à partir de U+10000, mais il peut aussi s’avérer utile localement dans certains traitements pour simplifier les algorithmes, car les caractères y ont toujours une taille fixe, la conversion des données d’entrée ou de sortie depuis ou vers UTF-8 ou UTF-16 étant triviale).</dd>
+<dt>Séquences invalides</dt>
+<dd>Par son système de codage, il était éventuellement possible de représenter un code de différentes manières en UTF-8, ce qui pouvait poser un problème de sécurité&#160;: un programme mal écrit peut accepter un certain nombre de représentations UTF-8, normalement invalides selon la RFC&#160;3629<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite_crochet">[</span>8<span class="cite_crochet">]</span></a></sup> et dans les spécifications (maintenant équivalentes entre elles) publiées par l’ISO 10646 et Unicode&#160;; mais ce n’était pas le cas selon la spécification originale, qui permettait de les convertir comme un seul et même caractère.</dd>
+<dd>De fait, un <a href="/wiki/Logiciel" title="Logiciel">logiciel</a> détectant certaines chaînes de caractères (pour prévenir les <a href="/wiki/Injection_SQL" title="Injection SQL">injections SQL</a>, par exemple) pouvait échouer dans sa tâche (ce n’est plus le cas si la conformité du codage avec la définition stricte et normalisée d’UTF-8 est vérifiée avant toute chose).</dd>
+<dd>Prenons un exemple tiré d’un cas réel de virus attaquant des <a href="/wiki/Serveur_HTTP" title="Serveur HTTP">serveurs HTTP</a> du <a href="/wiki/World_Wide_Web" title="World Wide Web">Web</a> en <a href="/wiki/2001" title="2001">2001</a> (<span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span><a rel="nofollow" class="external text" href="http://www.schneier.com/crypto-gram-0007.html#9">Crypto-Gram: July 15, 2000</a> <a rel="nofollow" class="external text" href="http://www.securityfocus.com/bid/1806/">Microsoft IIS and PWS Extended Unicode Directory Traversal Vulnerability</a> <a rel="nofollow" class="external text" href="http://attrition.org/security/advisory/advisory/nsfocus/sa2000-06.iis_unicode">Microsoft IIS 4.0/5.0 Web Directory Traversal Vulnerability</a>). Une séquence à détecter pourrait être «&#160;/../&#160;» représentée en ASCII (<i>a fortiori</i> en UTF-8) par les octets «&#160;<code>2F 2E 2E 2F</code>&#160;» en notation <a href="/wiki/Syst%C3%A8me_hexad%C3%A9cimal" title="Système hexadécimal">hexadécimale</a>.</dd>
+<dd>Cependant, une manière malformée de coder cette chaîne en UTF-8 serait «&#160;<code>2F <b>C0 AE</b> 2E 2F</code>&#160;», appelée aussi en anglais <i>overlong form (forme superlongue)</i>. Si le logiciel n’est pas soigneusement écrit pour rejeter cette chaîne, en la mettant par exemple sous forme <a href="/wiki/Canonique_(informatique)" title="Canonique (informatique)">canonique</a>, une brèche potentielle de sécurité est ouverte. Cette attaque est appelée <i>directory traversal</i>.</dd>
+<dd>Les logiciels acceptant du texte codé en UTF-8 ont été blindés pour rejeter systématiquement ces formes longues car non conformes à la norme&#160;: soit le texte entier est rejeté&#160;; mais parfois les séquences invalides sont remplacées par un caractère de substitution (généralement U+FFFD si l’application accepte et traite ce caractère normalement&#160;; parfois un point d’interrogation ou le caractère de contrôle de substitution <i>SUB</i> U+001A de l’ASCII, qui peuvent poser d’autres problèmes de compatibilité)&#160;; moins souvent, ces séquences interdites sont éliminées silencieusement (ce qui est très peu recommandé).</dd>
+<dt>Caractère nul</dt>
+<dd>UTF-8 ne peut représenter le caractère de contrôle nul (U+0000) qu’avec un seul octet nul, ce qui pose des problèmes de compatibilité avec le traitement de chaînes qui ne codifient pas séparément leur longueur effective car cet octet nul ne représente alors aucun caractère mais la fin de chaîne (cas très courant en langage C ou C++ et dans les API des systèmes d’exploitation). Si un caractère nul doit être stocké dans un texte sur de tels systèmes, il sera nécessaire de recourir à un système d’échappement, spécifique de ce langage ou système avant de coder en UTF-8 le texte ainsi transformé. En pratique, aucun texte valide ne devrait contenir ce caractère.</dd>
+<dd>Une autre solution est d’utiliser une des séquences interdites dans le codage UTF-8 standard afin coder le caractère par cette séquence&#160;; mais le texte ainsi codé ne sera pas conforme au codage UTF-8 standard, même si le codage ainsi modifié reste un format de transformation universelle conforme (qui ne doit cependant pas être désigné comme «&#160;UTF-8&#160;»). Voir la section ci-dessous relative aux variantes non standards basées sur UTF-8.</dd>
+</dl>
+<h2><span class="mw-headline" id="Histoire">Histoire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Histoire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=11" title="Modifier la section : Histoire">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>UTF-8 a été inventé par <a href="/wiki/Kenneth_Thompson" class="mw-redirect" title="Kenneth Thompson">Kenneth Thompson</a> lors d’un dîner avec <a href="/wiki/Rob_Pike" title="Rob Pike">Rob Pike</a> aux alentours de septembre 1992<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite_crochet">[</span>9<span class="cite_crochet">]</span></a></sup>. Appelé alors <i>FSS-UTF</i>, il a été immédiatement utilisé dans le <a href="/wiki/Syst%C3%A8me_d%27exploitation" title="Système d'exploitation">système d’exploitation</a> <a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9</a> sur lequel ils travaillaient. Une contrainte à résoudre était de coder les caractères nul et '/' comme en ASCII et qu’aucun octet codant un autre caractère n’ait le même code. Ainsi les systèmes d’exploitation <a href="/wiki/UNIX" class="mw-redirect" title="UNIX">UNIX</a> pouvaient continuer à rechercher ces deux caractères dans une chaîne sans adaptation logicielle.</p>
+<p>FSS-UTF a fait l'objet d’un standard préliminaire X/Open de 1993<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite_crochet">[</span>10<span class="cite_crochet">]</span></a></sup> qui fut proposé à l'ISO. Cette dernière l'adopta dans le cadre de la norme <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a> sous le nom d’abord d’UTF-2, puis finalement UTF-8.</p>
+<h3><span class="mw-headline" id=".C3.89volution_des_usages">Évolution des usages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Évolution des usages">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=12" title="Modifier la section : Évolution des usages">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/Fichier:UnicodeGrow2b.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UnicodeGrow2b.png/500px-UnicodeGrow2b.png" width="500" height="335" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a9/UnicodeGrow2b.png 1.5x" data-file-width="734" data-file-height="492" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:UnicodeGrow2b.png" class="internal" title="Agrandir"></a></div>
+Graphe indiquant l'utiliation d'UTF-8 (bleu clair) dépassant les principaux autres codages de caractères de texte sur le Web. Vers 2010 la prévalence d'UTF-8 était de l'ordre de 50%. Cette prévalence est estimée à partir du texte et non pas à partir de l'étiquette contenue dans l'en-tête<sup id="cite_ref-MarkDavis2010_11-0" class="reference"><a href="#cite_note-MarkDavis2010-11"><span class="cite_crochet">[</span>11<span class="cite_crochet">]</span></a></sup> et le jeu de caractère le plus simple était sélectionné<sup id="cite_ref-google-measurement-explanation_12-0" class="reference"><a href="#cite_note-google-measurement-explanation-12"><span class="cite_crochet">[</span>12<span class="cite_crochet">]</span></a></sup>. De ce fait, du texte ASCII mais avec un en-tête <i>UTF-8</i> ou <i>ISO-8859-1</i> est identifié comme étant de l'ASCII. En Août 2016, l'utilisation déclarée de l'UTF-8 était de 87,4%<sup id="cite_ref-W3Techs_2-1" class="reference"><a href="#cite_note-W3Techs-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.</div>
+</div>
+</div>
+<p><br /></p>
+<table>
+<caption>De 2010 à 2016</caption>
+<tr>
+<td>
+<div class="mw-graph" style="min-width:500px;min-height:300px"><img class="mw-graph-img" src="/api/rest_v1/page/graph/png/UTF-8/0/92f021e5cf1aa0c0558ab3005272da127982e778.png" /></div>
+</td>
+</tr>
+<tr>
+<td>Graphe indiquant l'utilisation d'UTF-8 (bleu clair) dépassant les principaux autres codages de caractères de texte sur le Web. Vers 2010 la prévalence d'UTF-8 était de l'ordre de 50%, mais en 2016, elle était plutôt de 90%.</td>
+</tr>
+<tr>
+<td>Statistiques reflétant les technologies utilisées sur les sites web déterminées à partir de techniques de reconnaissances de différents motifs, y comprs éléments HTML, tags HTML spécifiques (comme le tag "generator meta", le code JavaScript, le code CSS, la structure des URL du site, les lienshors site, les entêtes HTTP par exemple les cookies, les réponses HTTP à certaines requêtes comme la compression.
+<p>Statistiques basée sur un échantillon des 10 premiers millions de sites web selon Alexa<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite_crochet">[</span>13<span class="cite_crochet">]</span></a></sup>. Le total n'arrive pas à 100% car certains serveurs utilisent plusieurs technologies.</p>
+</td>
+</tr>
+<tr>
+<td>Source w3techs<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite_crochet">[</span>14<span class="cite_crochet">]</span></a></sup></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Restrictions_successives">Restrictions successives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Restrictions successives">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=13" title="Modifier la section : Restrictions successives">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Le codage original FSS-UTF était destiné à remplacer le codage multi-octets UTF-1 initialement proposé par l'ISO 10646. Ce codage initialement permissif, permettait plusieurs représentations binaires pour le même caractère (cela a été interdit dans la version normalisée dans la RFC publiée par le Consortium X/Open, et approuvé par Kenneth Thompson).</p>
+<p>De plus il pouvait (dans une version préliminaire non retenue) coder tous les caractères dont la valeur de point de code comprenait jusqu’à 32 bits en définissant un huitième type d’octet (dans des séquences comprenant jusqu’à 6 octets), au lieu des 7 types d’octets finalement retenus pour ne coder (dans des séquences comprenant aussi jusqu’à 6 octets) que les points de code jusqu’à 31 bits dans la version initiale d’UTF-8 (publiée par le Consortium X/Open sous le nom FSS-UTF, puis proposé par le comité technique d’ISO 10646 comme la proposition «&#160;UTF-2&#160;» alors encore en concurrence avec la proposition «&#160;UTF-1&#160;», jusqu’à ce que la proposition UTF-2 soit retenue et adopte le nom UTF-8 déjà retenu et utilisé dans X/Open et Plan 9).</p>
+<p>Ce codage UTF-8 a été restreint encore lorsque Unicode et ISO 10646 sont convenus de n’allouer des caractères que dans les 17 premiers plans afin de maintenir indéfiniment la compatibilité avec UTF-16 (sans devoir le modifier), en restreignant les séquences jusqu’à 4 octets seulement et en n’utilisant que les 5 premiers des 7 types d’octets (ce qui a nécessité de définir comme invalides de nouvelles valeurs d’octet et certaines séquences d’octets pourtant valides individuellement).</p>
+<h3><span class="mw-headline" id="Prise_en_charge">Prise en charge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Prise en charge">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=14" title="Modifier la section : Prise en charge">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>L’IETF exige maintenant qu’UTF-8 soit pris en charge par défaut (et non pas simplement supporté en tant qu’extension) par tous les nouveaux <a href="/wiki/Protocole_de_communication" title="Protocole de communication">protocoles de communication</a> d’<a href="/wiki/Internet" title="Internet">Internet</a> (publiés dans ses <a href="/wiki/Request_for_comments" title="Request for comments">RFC</a> numérotées) qui échangent du texte (les plus anciens protocoles n’ont toutefois pas été modifiés pour rendre ce support obligatoire, mais seulement étendus si possible, pour le supporter de façon optionnelle, si cela produit des incompatibilités ou introduit de nouveaux risques de sécurité&#160;: c’est le cas de protocoles Internet très utilisés comme <a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a>, <a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a>, <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a>, <a href="/wiki/Telnet" title="Telnet">Telnet</a> et de <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> dans ses versions initiales alors pas encore standardisés par le W3C et l’ISO).</p>
+<p>Il est devenu incontournable, notamment dans les principaux logiciels de communication du web et aujourd’hui les systèmes d’exploitation&#160;:</p>
+<ul>
+<li><a href="/wiki/Navigateur_web" title="Navigateur web">Navigateurs web</a>&#160;: la prise en charge d’UTF-8 commença à être répandue à partir de <a href="/wiki/1998_en_informatique" title="1998 en informatique">1998</a>.
+<ul>
+<li>Les anciens <a href="/wiki/Navigateur_web" title="Navigateur web">navigateurs web</a> ne supportant pas UTF-8 affichent tout de même correctement les 127 premiers caractères ASCII&#160;;</li>
+<li><a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a> supporte UTF-8 à partir de sa version 4 (<a href="/wiki/Juin_1997" title="Juin 1997">juin 1997</a>)&#160;;</li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">Microsoft Internet Explorer</a> supporte UTF-8 à partir de sa version 4 (<a href="/wiki/Octobre_1997" title="Octobre 1997">octobre 1997</a>) pour <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> et pour <a href="/wiki/Mac_OS" title="Mac OS">Mac OS</a> (<a href="/wiki/Janvier_1998" title="Janvier 1998">janvier 1998</a>)&#160;;</li>
+<li>Les navigateurs basés sur le <a href="/wiki/Gecko_(moteur_de_rendu)" title="Gecko (moteur de rendu)">moteur de rendu Gecko</a> (1998) supportent UTF-8&#160;: <a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla</a>, <a href="/wiki/Mozilla_Firefox" title="Mozilla Firefox">Mozilla Firefox</a>, <a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a>, etc.</li>
+<li><a href="/wiki/Opera_(logiciel)" class="mw-redirect" title="Opera (logiciel)">Opera</a> supporte UTF-8 à partir de sa version 6 (<a href="/wiki/Novembre_2001" title="Novembre 2001">novembre 2001</a>)&#160;;</li>
+<li><a href="/wiki/Konqueror" title="Konqueror">Konqueror</a> supporte UTF-8&#160;;</li>
+<li><a href="/wiki/Safari_(logiciel)" class="mw-redirect" title="Safari (logiciel)">Safari</a> sur Macintosh et Windows supporte UTF-8&#160;;</li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a> sur Macintosh supporte UTF-8&#160;;</li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a> de Google supporte UTF-8.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Fichiers et noms de fichiers&#160;: de plus en plus courant sur les systèmes de fichiers GNU/Linux et Unix, mais pas très bien supporté sous les anciennes versions de Windows (antérieures à Windows 2000 et Windows XP, lesquels peuvent maintenant les prendre en charge sans difficulté puisque le support d’UTF-8 est maintenant totalement intégré au système, en plus d’UTF-16 présent depuis les premières versions de Windows NT et de l’API système Win32).
+<dl>
+<dd>Noter que le système de fichiers FAT historique de MS-DOS et Windows a été étendu depuis Window NT 4 et Windows XP pour prendre en charge UTF-16 (pour une meilleure compatibilité avec NTFS) et non UTF-8 (mais cette transformation est équivalente et transparente aux applications) avec quelques restrictions sur les caractères autorisés ou considérés comme équivalents (de telles exceptions ou restrictions existent aussi sur tous les systèmes de fichiers pour GNU/Linux, Unix, Mac OS X et d’autres systèmes, y compris les systèmes de fichiers distribués sur Internet comme HTTP/WebDAV).</dd>
+</dl>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Client_de_messagerie" title="Client de messagerie">Client de messagerie</a>&#160;: tous les logiciels de messagerie utilisés aujourd’hui supportent UTF-8.
+<ul>
+<li><a href="/wiki/Mozilla_Thunderbird" title="Mozilla Thunderbird">Thunderbird</a>&#160;;</li>
+<li><a href="/wiki/Windows_Mail" class="mw-redirect" title="Windows Mail">Windows Mail</a>&#160;;</li>
+<li><a href="/wiki/Microsoft_Outlook" title="Microsoft Outlook">Microsoft Outlook</a>&#160;;</li>
+<li><a href="/wiki/Lotus_Notes" class="mw-redirect" title="Lotus Notes">Lotus Notes</a>&#160;;</li>
+<li><a href="/wiki/Novell_GroupWise" title="Novell GroupWise">Novell GroupWise</a>&#160;;</li>
+<li>etc.</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Extensions_non_standards">Extensions non standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Modifier la section : Extensions non standards">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=15" title="Modifier la section : Extensions non standards">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Toutefois, des variantes d’UTF-8 (basées sur les possibilités de codage de la version initiale non restreinte) ont continué à être utilisées (notamment dans l’implémentation de la sérialisation des chaînes Java) pour permettre de coder sous forme d’un échappement multioctets certains caractères ASCII réservés normalement codés sur un seul octet (par exemple le caractère nul).</p>
+<p>De plus, certains systèmes utilisent des chaînes de caractères non restreints&#160;: par exemple, Java (et d’autres langages y compris des bibliothèques de manipulation de chaînes en C, PHP, Perl, etc.) représentent les caractères avec des unités de codage sur 16 bits (ce qui permet de stocker les chaînes en utilisant le codage UTF-16, mais sans les contraintes de validité imposées par UTF-16 concernant les valeurs interdites et l'appariement dans l’ordre des «&#160;demi-codets&#160;» ou <i>surrogates</i>)&#160;; dans ce cas, les unités de codage sont traitées comme des valeurs binaires et il est nécessaire de les sérialiser de façon individuelle (indépendamment de leur interprétation possible comme caractères ou comme demi-points de code). Dans ce cas, chaque unité de codage 16 bits qui représente un «&#160;caractère&#160;» (non-contraint) est sérialisé sous forme de séquences comprenant jusqu’à 3 octets chacune, et certains octets interdits par l’implémentation (par exemple les caractères nuls ou la barre de fraction «&#160;/&#160;» dans un système de fichiers ou d’autres caractères codés sur un octet dans d’autres protocoles) sont codés sous forme de séquences d’échappement à deux octets dont aucun n’est nul, en utilisant simplement le principe de codage de la première spécification de FSS-UTF (avant celle qui a été retenue par le Consortium X/Open dans sa RFC initiale où ces échappements étaient spécifiquement interdits et le sont restés).</p>
+<p>Avant l’adoption de la proposition UTF-2 retenue pour UTF-8, il a également existé une variante UTF-1, où les codages multiples étaient impossibles, mais nécessitait un codage/décodage plus difficile devant prendre en compte la position de chaque octet et utilisant un certain nombre de valeurs «&#160;magiques&#160;».</p>
+<p>Ces variantes ne <b>doivent pas</b> être appelées «&#160;UTF-8&#160;».</p>
+<p>Une de ces variantes non standards a fait cependant l’objet d’une standardisation ultérieure (en tant qu’alternative à <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> et utilisant des paires de «&#160;demi-codets&#160;» codés chacun sur 3 octets; soit 6 octets en tout au lieu de 4 avec UTF-8)&#160;: voir <a href="/wiki/CESU-8" title="CESU-8">CESU-8</a>.</p>
+<h4><span class="mw-headline" id="Exemple_de_variante_utilis.C3.A9e_en_Java">Exemple de variante utilisée en Java</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Modifier la section : Exemple de variante utilisée en Java">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=16" title="Modifier la section : Exemple de variante utilisée en Java">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Par exemple, les API d’intégration des machines virtuelles <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> (pour JNI, <i><a href="/wiki/Java_Native_Interface" title="Java Native Interface">Java Native Interface</a></i> ou pour la sérialisation des classes précompilées), qui permettent d’échanger les chaînes Java non contraintes sous forme de séquences d’octets (afin de les manipuler, utiliser ou produire par du code natif, ou pour le stockage sous forme de fichier natif codés en suites d’octets), sont suffixées par «&#160;UTFChars&#160;» ou «&#160;UTF&#160;», mais ce codage propre à Java n’est pas UTF-8 (La documentation de Sun la désigne comme <i>modified UTF</i>, mais certains documents plus anciens relatifs à JNI désignent encore ce codage incorrectement sous le nom <i>UTF-8</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite_crochet">[</span>15<span class="cite_crochet">]</span></a></sup>, ce qui a produit des anomalies de comportement de certaines bibliothèques natives JNI, notamment avec les API systèmes d’anciennes plateformes natives qui ne supportent pas nativement les codages de caractères sur plus de 8 bits), car&#160;:</p>
+<ul>
+<li>le caractère nul, présent en tant que tel dans une chaîne Java, est codé sous forme de deux octets non nuls (et non un seul octet nul utilisé pour indiquer la fin de séquence)&#160;;</li>
+<li>les demi-codets (en anglais <i>surrogates</i>, assignés entre U+D000 à U+D7FF) peuvent être codés librement, dans un ordre quelconque, de même que les points de code interdits normalement pour le codage de caractère (par exemple U+FFFF ou U+FFFE)&#160;: aucun test de validité n’est demandé&#160;;</li>
+<li>les séquences d’octets plus longues (sur 4 octets pour représenter les caractères hors du plan multilingue de base) normalisées et valides dans UTF-8 ne sont pas reconnues par la machine virtuelle dans ses API basées sur <i>modified UTF</i> (ce qui déclenche des exceptions lors de la conversion demandée par le code natif de la chaîne 8 bits vers une chaîne Java gérée par la machine virtuelle)&#160;: il faut alors réencoder les caractères hors du plan de base (et codés sur 4 octets en UTF-8) sous la forme de deux séquences de 3 octets en <i>modified UTF</i>, une pour chaque <i>surrogate</i> (comme dans le codage <a href="/wiki/CESU-8" title="CESU-8">CESU-8</a>) et la conformité des chaînes Java avec Unicode doit être vérifiée et les exceptions gérées&#160;;</li>
+<li>les chaînes Java (de la classe système <tt>String</tt>) et le type numéral <tt>char</tt> sont utilisés aussi pour le stockage (sous forme compacte, non modifiable et partageable) de données binaires quelconques (pas seulement du texte), et peuvent aussi être manipulées dans d’autres codages que l’UTF-16 (la seule contrainte étant que les unités de codage individuelle ne doivent pas dépasser 16 bits et doivent être de valeur positive, le bit de poids fort n’étant pas évalué comme un bit de signe).</li>
+</ul>
+<p>En conséquence&#160;:</p>
+<ul>
+<li>les applications écrites en pur Java (sans code natif) et qui nécessitent l’implémentation de contraintes de codage pour être conformes à Unicode pour le texte <b>doivent</b> le demander explicitement et utiliser un des filtres de codage fournis (pour UTF-8, comme aussi pour UTF-16), ou construire et utiliser des classes basées sur la classe <tt>String</tt> et le type numéral <tt>char</tt>&#160;;</li>
+<li>un texte UTF-8 valide (et manipulé en code natif dans des chaînes sans caractères nuls) nécessite un prétraitement avant de pouvoir être transmis à la machine virtuelle Java via JNI&#160;; notamment, toute séquence codée sur 4 octets (pour un caractère hors du plan de base) doit être transcodée en deux séquences de 3 octets&#160;;</li>
+<li>les chaînes obtenues depuis une machine virtuelle Java via les interfaces UTF de JNI nécessitent un prétraitement de contrôle de validité ou de filtrage dans le code natif, avant de pouvoir être utilisées comme du texte UTF-8 valide (il faut détecter les occurrences du caractère null codé en deux octets et, si ce caractère est acceptable par le code natif, le transcoder en un seul octet&#160;; il faut vérifier dans le code natif l’appariement correct des <i>surrogates</i>, codés chacun sur 3 octets, et les filtrer si ces séquences ne sont pas refusées comme invalides, puis transcoder toute paire valide de <i>surrogates</i> en une seule séquence de 4 octets seulement et non deux séquences de 3 octets).</li>
+</ul>
+<p>Ces traitements peuvent être inefficaces pour l’interfaçage de grosses quantités de texte car ils demandent l'allocation de tampons mémoire supplémentaires pour s'interfacer ensuite dans le code natif avec des interfaces système ou réseau qui n'acceptent que l’UTF-8 standard.</p>
+<p>Cependant JNI fournit aussi une API binaire plus efficace permettant d’utiliser UTF-16 directement, capable de s'interfacer directement avec les protocoles réseau et les interfaces système (par exemple les API Windows) qui supportent l’UTF-16, sans nécessiter aucune allocation mémoire supplémentaire pour le transcodage (seule la vérification de conformité peut être nécessaire, principalement pour vérifier dans le texte codé l'appariement correct des demi-codets ou <i>surrogate</i>, que Java (comme aussi d’autres langages de programmation) permet de manipuler sans restriction de validité dans ses propres chaînes de caractères non dédiées au stockage des seuls textes conformes avec l’UCS). Cette API binaire est supportée sur tous les systèmes où Java a été porté, même ceux dont le système d’exploitation n’offre pas d’API de texte Unicode (la prise en charge pouvant se faire dans l’application native hôte ou en utilisant les bibliothèques standard fournies avec la machine virtuelle Java ou d’autres bibliothèques natives indépendantes.</p>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=17" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://w3techs.com/technologies/overview/character_encoding/all">«&#160;Usage of character encodings for websites&#160;»</a>, sur <i>W3Techs</i> (consulté le 18 décembre 2014).</span></li>
+<li id="cite_note-W3Techs-2"><span class="noprint renvois_vers_le_texte">↑ <sup><a href="#cite_ref-W3Techs_2-0">a</a> et <a href="#cite_ref-W3Techs_2-1">b</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://w3techs.com/technologies/overview/character_encoding/all">«&#160;Usage of character encodings for websites&#160;»</a>, sur <i>W3Techs</i> (consulté le 13 septembre 2016).</span></li>
+<li id="cite_note-3"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2044"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2044</a>.</span></li>
+<li id="cite_note-4"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2279"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2279</a>.</span></li>
+<li id="cite_note-5"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc3629"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;3629</a>.</span></li>
+<li id="cite_note-6"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Cependant sur <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/unicode.html#utf-8">cette page retraçant l’histoire du codage UTF-8 avant 1996</a> il est dit&#160;: «&#160;<i>UTF-8 encoded characters may theoretically be up to six bytes long</i>&#160;», faisant par là référence à l’ensemble des valeurs possibles (plus de deux milliards, codées sur 31 bits au maximum) dans l’édition initiale (aujourd'hui obsolète) de la norme ISO/CEI 10646, cf. section <a href="#Restrictions_successives">Restrictions successives</a>.</span></li>
+<li id="cite_note-7"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/unicode.html#utf-8">UTF-8 and Unicode FAQ</a>&#160;: <span class="citation">«&#160;pour des raisons de sécurité, un programme qui décode des caractères au format UTF-8 ne doit pas accepter les séquences UTF-8 qui sont plus longues que nécessaire pour coder ces caractères. Il risquerait d’abuser d’un test de sous-chaîne, qui ne regarderait que les codages les plus courts.&#160;»</span></span></li>
+<li id="cite_note-8"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc3629"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;3629</a>.</span></li>
+<li id="cite_note-9"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt">Histoire de la création d’UTF-8</a> - par <a href="/wiki/Rob_Pike" title="Rob Pike">Rob Pike</a>.</span></li>
+<li id="cite_note-10"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://std.dkuug.dk/jtc1/sc22/WG20/docs/N193-FSS-UTF.pdf">File System Safe UCS Transformation Format (FSS-UTF)</a>.</span></li>
+<li id="cite_note-MarkDavis2010-11"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-MarkDavis2010_11-0">↑</a></span> <span class="reference-text"><span class="ouvrage" id="2010"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="http://googleblog.blogspot.com/2010/01/unicode-nearing-50-of-web.html">«&#160;<cite style="font-style: normal;">Unicode nearing 50% of the web</cite>&#160;»</a>, <i>Official Google Blog</i>, <a href="/wiki/Google" title="Google">Google</a>, <time class="nowrap" datetime="2010-01-28">28 janvier 2010</time></span></span></li>
+<li id="cite_note-google-measurement-explanation-12"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-google-measurement-explanation_12-0">↑</a></span> <span class="reference-text"><span class="ouvrage" id="2008"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="http://www.w3.org/QA/2008/05/utf8-web-growth#c139948">«&#160;<cite style="font-style: normal;">utf-8 Growth On The Web (response)</cite>&#160;»</a>, sur <i>W3C Blog</i>, W3C, <time class="nowrap" datetime="2008-05-08">8 mai 2008</time></span></span></li>
+<li id="cite_note-13"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">w3techs.com/faq</span></li>
+<li id="cite_note-14"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://w3techs.com/technologies/history_overview/character_encoding/ms/y">https://w3techs.com/technologies/history_overview/character_encoding/ms/y</a></span></li>
+<li id="cite_note-15"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://java.sun.com/docs/books/jni/html/types.html#58973">http://java.sun.com/docs/books/jni/html/types.html#58973</a>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=18" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="autres-projets boite-grise boite-a-droite noprint js-interprojets">
+<p class="titre">Sur les autres projets Wikimedia&#160;:</p>
+<ul class="noarchive plainlinks">
+<li class="wiktionary"><a href="https://fr.wiktionary.org/wiki/Unicode" class="extiw" title="wikt:Unicode">Unicode</a>, <span class="nowrap">sur le <span class="project">Wiktionnaire</span></span></li>
+<li class="wikibooks"><a href="https://fr.wikibooks.org/wiki/%C3%80_la_d%C3%A9couverte_d%E2%80%99Unicode" class="extiw" title="b:À la découverte d’Unicode">UTF-8</a>, <span class="nowrap">sur <span class="project">Wikibooks</span></span></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=19" class="mw-editsection-visualeditor" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=19" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/UTF-16" title="UTF-16">UTF-16</a>, <a href="/wiki/UTF-32" title="UTF-32">UTF-32</a>, <a href="/wiki/CESU-8" title="CESU-8">CESU-8</a></li>
+<li><a href="/wiki/Unicode" title="Unicode">Unicode</a>, <a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a></li>
+<li><a href="/wiki/ISO_646" class="mw-redirect" title="ISO 646">ISO 646</a></li>
+<li><a href="/wiki/ISO_8859" class="mw-redirect" title="ISO 8859">ISO 8859</a>, <a href="/wiki/ISO_8859-1" class="mw-redirect" title="ISO 8859-1">ISO 8859-1</a></li>
+<li><a href="/wiki/Analyse_syntaxique" title="Analyse syntaxique">Analyse syntaxique</a></li>
+</ul>
+<h4><span class="mw-headline" id="Blocs_de_caract.C3.A8res_Unicode_sp.C3.A9ciaux_contenant_des_non-caract.C3.A8res">Blocs de caractères Unicode spéciaux contenant des non-caractères</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mod%C3%A8le:Table_des_caract%C3%A8res_Unicode/Liens_non-caract%C3%A8re&amp;action=edit&amp;section=T-1" title="Modèle:Table des caractères Unicode/Liens non-caractère">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UD800" title="Table des caractères Unicode/UD800">Table des caractères Unicode - Demi-zone haute d’indirection</a></li>
+<li><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UDC00" title="Table des caractères Unicode/UDC00">Table des caractères Unicode - Demi-zone basse d’indirection</a></li>
+<li><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UFDD0" title="Table des caractères Unicode/UFDD0">Table des caractères Unicode - Formes A de présentation arabes (<abbr class="abbr" title="Deuxième">2<sup>e</sup></abbr> partie)</a></li>
+<li>Table des caractères Unicode - Fins de plans&#160;: <a href="/wiki/Table_des_caract%C3%A8res_Unicode/UFFF0" title="Table des caractères Unicode/UFFF0">Caractères spéciaux</a>, <a href="/wiki/Table_des_caract%C3%A8res_Unicode/U1FFF0" title="Table des caractères Unicode/U1FFF0">plan multilingue complémentaire</a>, <a href="/wiki/Table_des_caract%C3%A8res_Unicode/U2FFF0" title="Table des caractères Unicode/U2FFF0">plan idéographique complémentaire</a>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U3FFF0" title="Table des caractères Unicode/U3FFF0">plan 3</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U4FFF0" title="Table des caractères Unicode/U4FFF0">plan 4</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U5FFF0" title="Table des caractères Unicode/U5FFF0">plan 5</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U6FFF0" title="Table des caractères Unicode/U6FFF0">plan 6</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U7FFF0" title="Table des caractères Unicode/U7FFF0">plan 7</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U8FFF0" title="Table des caractères Unicode/U8FFF0">plan 8</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/U9FFF0" title="Table des caractères Unicode/U9FFF0">plan 9</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UAFFF0" title="Table des caractères Unicode/UAFFF0">plan 10</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UBFFF0" title="Table des caractères Unicode/UBFFF0">plan 11</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UCFFF0" title="Table des caractères Unicode/UCFFF0">plan 12</a></i>, <i><a href="/wiki/Table_des_caract%C3%A8res_Unicode/UDFFF0" title="Table des caractères Unicode/UDFFF0">plan 13</a></i>, <a href="/wiki/Table_des_caract%C3%A8res_Unicode/UEFFF0" title="Table des caractères Unicode/UEFFF0">plan complémentaire spécialisé</a>, <a href="/wiki/Table_des_caract%C3%A8res_Unicode/UFFFF0" title="Table des caractères Unicode/UFFFF0">zone supplémentaire A à usage privé</a>, <a href="/wiki/Table_des_caract%C3%A8res_Unicode/U10FFF0" title="Table des caractères Unicode/U10FFF0">zone supplémentaire B à usage privé</a></li>
+</ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=UTF-8&amp;veaction=edit&amp;section=20" class="mw-editsection-visualeditor" title="Modifier la section : Liens externes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=UTF-8&amp;action=edit&amp;section=20" title="Modifier la section : Liens externes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: français">fr</abbr>)</span> <a rel="nofollow" class="external text" href="http://hapax.qc.ca/conversion.fr.html">Formulaire de conversion UTF-8, UTF-16, UTF-32</a></li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: français">fr</abbr>)</span> <a rel="nofollow" class="external text" href="http://hapax.qc.ca/pdf/Chapitre-3.pdf"><i>Conformité</i></a> - Traduction du Standard Unicode en français <abbr class="abbr indicateur-format format-pdf" title="Document au format Portable Document Format (PDF) d'Adobe">[PDF]</abbr></li>
+<li><span class="ouvrage" id="The_Unicode_Consortium2011"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a href="/wiki/Consortium_Unicode" title="Consortium Unicode"><span class="nom_auteur">The Unicode Consortium</span></a>, <cite class="italique" lang="en">The Unicode Standard, Version 6.0.0</cite>, Mountain View (Californie, États-Unis), <time class="nowrap" datetime="2011-02">février 2011</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1-936213-01-6" title="Spécial:Ouvrages de référence/978-1-936213-01-6"><span class="nowrap">978-1-936213-01-6</span></a>, <a rel="nofollow" class="external text" href="http://www.unicode.org/versions/Unicode6.0.0/">présentation en ligne</a>, <a rel="nofollow" class="external text" href="http://www.unicode.org/versions/Unicode6.0.0/ch03.pdf#G7404%203.9%20Unicode%20Encoding%20Forms">lire en ligne</a>)</small>, <abbr class="abbr" title="chapitre(s)">chap.</abbr>&#160;3 <span class="lang-en" lang="en">(«&#160;Conformance&#160;»)</span>, pp. 88–100<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Unicode+Standard%2C+Version+6.0.0&amp;rft.atitle=Conformance&amp;rft.place=Mountain+View+%28Californie%2C+%C3%89tats-Unis%29&amp;rft.aulast=The+Unicode+Consortium&amp;rft.date=2011-02&amp;rft.pages=pp.+88%E2%80%93100&amp;rft.isbn=978-1-936213-01-6&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AUTF-8" id="COinS_30780"></span></span>.</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> RFC&#160;3629<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup> - <i>UTF-8, a transformation format of ISO 10646</i>, <a href="/wiki/Novembre_2003" title="Novembre 2003">novembre 2003</a> (standard, totalement compatible avec Unicode)&#160;:
+<ul>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> RFC&#160;2279<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup> - <i>UTF-8, a transformation format of ISO 10646</i>, janvier 1998 (ancienne révision, obsolète)&#160;;</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> RFC&#160;2044<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup> - <i>UTF-8, a transformation format of Unicode and ISO 10646</i>, octobre 1996 (version initiale approuvée par l’IETF, obsolète)&#160;;</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="http://www.cs.bell-labs.com/sys/doc/utf.pdf">Papier original sur UTF-8</a>, de <a href="/wiki/Rob_Pike" title="Rob Pike">Rob Pike</a> et <a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> (informatif, obsolète) <abbr class="abbr indicateur-format format-pdf" title="Document au format Portable Document Format (PDF) d'Adobe">[PDF]</abbr>.</li>
+</ul>
+</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> RFC&#160;2277<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup> - <i>IETF policy on character sets and languages</i>, janvier 1998.</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt">Histoire de la création d’UTF-8</a>, par <a href="/wiki/Rob_Pike" title="Rob Pike">Rob Pike</a>.</li>
+<li><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <span class="ouvrage" id="2012"><cite class="italique">UTF-8 Everywhere Manifesto</cite>, <time class="nowrap" datetime="2012-09-14">14 septembre 2012</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="http://www.utf8everywhere.org/">lire en ligne</a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=UTF-8+Everywhere+Manifesto&amp;rft.date=2012-09-14&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AUTF-8" id="COinS_15861"></span></span></li>
+</ul>
+<div class="navbox-container" style="clear:both;">
+<table class="navbox collapsible noprint autocollapse" data-autocollapse-group="palette" style="">
+<tr>
+<th class="navbox-title" colspan="2" style="">
+<div style="float:left; width:6em; text-align:left">
+<div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_Unicode" title="Modèle:Palette Unicode"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Unicode&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div>
+</div>
+<span style="font-size:110%"><a href="/wiki/Unicode" title="Unicode">Unicode</a></span></th>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;">Jeux de caractères</th>
+<td class="navbox-list" style=""><span class="nowrap"><a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">UCS (ISO/CEI 10646)</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_646" class="mw-redirect" title="ISO 646">ISO 646</a>, <a href="/wiki/American_Standard_Code_for_Information_Interchange" title="American Standard Code for Information Interchange">ASCII</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_8859-1" class="mw-redirect" title="ISO 8859-1">ISO 8859-1</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Windows_Glyph_List_4" title="Windows Glyph List 4">WGL4</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UniHan" title="UniHan">UniHan</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;">Équivalences normalisées</th>
+<td class="navbox-list navbox-even" style=""><span class="nowrap"><a href="/wiki/Normalisation_Unicode#NFC" title="Normalisation Unicode">NFC</a> (précomposée)</span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Normalisation_Unicode#NFD" title="Normalisation Unicode">NFD</a> (décomposée)</span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Normalisation_Unicode#NFKC" title="Normalisation Unicode">NFKC</a> (compatibilité)</span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Normalisation_Unicode#NFKD" title="Normalisation Unicode">NFKD</a> (compatibilité)</span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;">Propriétés et algorithmes</th>
+<td class="navbox-list" style=""><span class="nowrap"><a href="/wiki/ISO_15924" title="ISO 15924">ISO 15924</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Casse_(typographie)" title="Casse (typographie)">Casse</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap">Ordonnancement <a href="/w/index.php?title=Unicode_collation_algorithm&amp;action=edit&amp;redlink=1" class="new" title="Unicode collation algorithm (page inexistante)">UCA</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Texte_bidirectionnel" title="Texte bidirectionnel">Texte bidirectionnel</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Marque_d%27ordre_des_octets" class="mw-redirect" title="Marque d'ordre des octets">BOM</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;"><a href="/wiki/Codage_des_caract%C3%A8res" title="Codage des caractères">Codage</a></th>
+<td class="navbox-list navbox-even" style=""><span class="nowrap"><a class="mw-selflink selflink">UTF-8</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/CESU-8" title="CESU-8">CESU-8</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-EBCDIC" title="UTF-EBCDIC">UTF-EBCDIC</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Binary_Ordered_Compression_for_Unicode" title="Binary Ordered Compression for Unicode">BOCU-1</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Standard_Compression_Scheme_for_Unicode" title="Standard Compression Scheme for Unicode">SCSU</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-16" title="UTF-16">UTF-16</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-32" title="UTF-32">UTF-32</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;">Autres transformations</th>
+<td class="navbox-list" style=""><span class="nowrap"><a href="/wiki/Punycode" title="Punycode">Punycode</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/GB_18030" title="GB 18030">GB 18030</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:250px;">Articles liés</th>
+<td class="navbox-list navbox-even" style=""><span class="nowrap"><a href="/wiki/Courriel_et_Unicode" title="Courriel et Unicode">Courriel et Unicode</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap">Unicode et HTML</span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Uniscribe" title="Uniscribe">Uniscribe</a></span></td>
+</tr>
+</table>
+<table class="navbox collapsible noprint autocollapse" data-autocollapse-group="palette" style="">
+<tr>
+<th class="navbox-title" colspan="3" style="">
+<div style="float:left; width:6em; text-align:left">
+<div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_Jeux_de_caract%C3%A8res" title="Modèle:Palette Jeux de caractères"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Jeux_de_caract%C3%A8res&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div>
+</div>
+<span style="font-size:110%">Jeux de caractères codés</span></th>
+</tr>
+<tr>
+<th class="navbox-group" style="width:9em;text-align:left">Multi-octets</th>
+<td class="navbox-list" style="text-align:center;">
+<table class="navbox-subgroup" style="">
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left"><a href="/wiki/Unicode" title="Unicode">Unicode</a></th>
+<td class="navbox-list" style="text-align:left;"><span class="nowrap"><a href="/wiki/ISO/CEI_10646" title="ISO/CEI 10646">ISO/CEI 10646</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Table_des_caract%C3%A8res_Unicode" title="Table des caractères Unicode">Table des caractères Unicode</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a class="mw-selflink selflink">UTF-8</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-16" title="UTF-16">UTF-16</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-32" title="UTF-32">UTF-32</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/UTF-EBCDIC" title="UTF-EBCDIC">UTF-EBCDIC</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/CESU-8" title="CESU-8">CESU-8</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Binary_Ordered_Compression_for_Unicode" title="Binary Ordered Compression for Unicode">BOCU-1</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Autres</th>
+<td class="navbox-list navbox-even" style="text-align:left;"><span class="nowrap"><a href="/wiki/ISO_2022" class="mw-redirect" title="ISO 2022">ISO/CEI 2022</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Big5" title="Big5">Big5</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISCII" title="ISCII">ISCII</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/GB_18030" title="GB 18030">GB 18030</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/GBK_(jeu_de_caract%C3%A8res)" title="GBK (jeu de caractères)">GBK</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Shift-JIS" title="Shift-JIS">Shift-JIS</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Codage_des_caract%C3%A8res_chinois" title="Codage des caractères chinois">Codage des caractères chinois</a></span></td>
+</tr>
+</table>
+</td>
+<td rowspan="3" style="background:#F9F9F9">
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/Fichier:MM1PaperTapeEncoding.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MM1PaperTapeEncoding.svg/100px-MM1PaperTapeEncoding.svg.png" width="100" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MM1PaperTapeEncoding.svg/150px-MM1PaperTapeEncoding.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MM1PaperTapeEncoding.svg/200px-MM1PaperTapeEncoding.svg.png 2x" data-file-width="142" data-file-height="233" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Fichier:MM1PaperTapeEncoding.svg" class="internal" title="Agrandir"></a></div>
+Codage Baudot.</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:9em;text-align:left">Codés sur <span class="nowrap">8 bits</span></th>
+<td class="navbox-list navbox-even" style="text-align:center; background:#EEEEFF">
+<table class="navbox-subgroup" style="">
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left"><a href="/wiki/ISO_8859" class="mw-redirect" title="ISO 8859">ISO/CEI 8859</a></th>
+<td class="navbox-list" style="text-align:left;"><span class="nowrap"><a href="/wiki/ISO_8859-1" class="mw-redirect" title="ISO 8859-1">-1</a> <small>(Latin-1)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-2&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-2 (page inexistante)">-2</a> <small>(Latin-2)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_8859-3" class="mw-redirect" title="ISO 8859-3">-3</a> <small>(Latin-3)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-4&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-4 (page inexistante)">-4</a> <small>(Latin-4)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-5&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-5 (page inexistante)">-5</a> <small>(Cyrillique)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-6&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-6 (page inexistante)">-6</a> <small>(Arabe)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-7&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-7 (page inexistante)">-7</a> <small>(Grec)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-8&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-8 (page inexistante)">-8</a> <small>(Hébreu)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-9&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-9 (page inexistante)">-9</a> <small>(Latin-5)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_8859-10" class="mw-redirect" title="ISO 8859-10">-10</a> <small>(Latin-6)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-11&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-11 (page inexistante)">-11</a> <small>(Thaï)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-12&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-12 (page inexistante)">-12</a> <small>(Devanagari)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-13&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-13 (page inexistante)">-13</a> <small>(Latin-7)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_8859-14" class="mw-redirect" title="ISO 8859-14">-14</a> <small>(Latin-8)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_8859-15" class="mw-redirect" title="ISO 8859-15">-15</a> <small>(Latin-9)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=ISO_8859-16&amp;action=edit&amp;redlink=1" class="new" title="ISO 8859-16 (page inexistante)">-16</a> <small>(Latin-10)</small></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Pages de code Windows</th>
+<td class="navbox-list navbox-even" style="text-align:left;"><span class="nowrap"><a href="/w/index.php?title=Windows-874&amp;action=edit&amp;redlink=1" class="new" title="Windows-874 (page inexistante)">874</a> / <a href="/w/index.php?title=TIS-620&amp;action=edit&amp;redlink=1" class="new" title="TIS-620 (page inexistante)">TIS-620</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_932&amp;action=edit&amp;redlink=1" class="new" title="Page de code 932 (page inexistante)">932</a> / <a href="/w/index.php?title=Shift_JIS&amp;action=edit&amp;redlink=1" class="new" title="Shift JIS (page inexistante)">Shift JIS</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_936&amp;action=edit&amp;redlink=1" class="new" title="Page de code 936 (page inexistante)">936</a> / <a href="/wiki/GBK_(jeu_de_caract%C3%A8res)" title="GBK (jeu de caractères)">GBK</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Page_de_code_949" class="mw-redirect" title="Page de code 949">949</a> / <a href="/wiki/EUC-KR" class="mw-redirect" title="EUC-KR">EUC-KR</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_950&amp;action=edit&amp;redlink=1" class="new" title="Page de code 950 (page inexistante)">950</a> / <a href="/wiki/Big5" title="Big5">Big5</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1250&amp;action=edit&amp;redlink=1" class="new" title="Windows-1250 (page inexistante)">1250</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1251&amp;action=edit&amp;redlink=1" class="new" title="Windows-1251 (page inexistante)">1251</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Windows-1252" title="Windows-1252">1252</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Windows-1253" title="Windows-1253">1253</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1254&amp;action=edit&amp;redlink=1" class="new" title="Windows-1254 (page inexistante)">1254</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1255&amp;action=edit&amp;redlink=1" class="new" title="Windows-1255 (page inexistante)">1255</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1256&amp;action=edit&amp;redlink=1" class="new" title="Windows-1256 (page inexistante)">1256</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-1257&amp;action=edit&amp;redlink=1" class="new" title="Windows-1257 (page inexistante)">1257</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Windows-1258" title="Windows-1258">1258</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Windows-54936&amp;action=edit&amp;redlink=1" class="new" title="Windows-54936 (page inexistante)">54936</a> / <a href="/wiki/GB_18030" title="GB 18030">GB18030</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Pages de code Mac&#160;OS</th>
+<td class="navbox-list" style="text-align:left;"><a href="/wiki/MacRoman" title="MacRoman">MacRoman</a></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Pages de code DOS</th>
+<td class="navbox-list navbox-even" style="text-align:left;"><span class="nowrap"><a href="/wiki/Page_de_code_437" title="Page de code 437">437</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_720&amp;action=edit&amp;redlink=1" class="new" title="Page de code 720 (page inexistante)">720</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_737&amp;action=edit&amp;redlink=1" class="new" title="Page de code 737 (page inexistante)">737</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_775&amp;action=edit&amp;redlink=1" class="new" title="Page de code 775 (page inexistante)">775</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Page_de_code_850" title="Page de code 850">850</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Page_de_code_852" title="Page de code 852">852</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_855&amp;action=edit&amp;redlink=1" class="new" title="Page de code 855 (page inexistante)">855</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_857&amp;action=edit&amp;redlink=1" class="new" title="Page de code 857 (page inexistante)">857</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_858&amp;action=edit&amp;redlink=1" class="new" title="Page de code 858 (page inexistante)">858</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_860&amp;action=edit&amp;redlink=1" class="new" title="Page de code 860 (page inexistante)">860</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_861&amp;action=edit&amp;redlink=1" class="new" title="Page de code 861 (page inexistante)">861</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_862&amp;action=edit&amp;redlink=1" class="new" title="Page de code 862 (page inexistante)">862</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Page_de_code_863" title="Page de code 863">863</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_864&amp;action=edit&amp;redlink=1" class="new" title="Page de code 864 (page inexistante)">864</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_865&amp;action=edit&amp;redlink=1" class="new" title="Page de code 865 (page inexistante)">865</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_866&amp;action=edit&amp;redlink=1" class="new" title="Page de code 866 (page inexistante)">866</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_869&amp;action=edit&amp;redlink=1" class="new" title="Page de code 869 (page inexistante)">869</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Kamenick%C3%BD_encoding&amp;action=edit&amp;redlink=1" class="new" title="Kamenický encoding (page inexistante)">Kamenický</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Mazovia_encoding&amp;action=edit&amp;redlink=1" class="new" title="Mazovia encoding (page inexistante)">Mazovia</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=MIK_page_de_code&amp;action=edit&amp;redlink=1" class="new" title="MIK page de code (page inexistante)">MIK</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Iran_System_encoding_standard&amp;action=edit&amp;redlink=1" class="new" title="Iran System encoding standard (page inexistante)">Iran System</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Pages de code diverses</th>
+<td class="navbox-list" style="text-align:left;"><span class="nowrap"><a href="/wiki/ANSEL" title="ANSEL">ANSEL</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Multinational_Character_Set" title="Multinational Character Set">DEC-MCS</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/KOI8-R" title="KOI8-R">KOI8-R</a> <small>(russe)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/KOI8-U" title="KOI8-U">KOI8-U</a> <small>(ukrainien)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=StandardEncoding&amp;action=edit&amp;redlink=1" class="new" title="StandardEncoding (page inexistante)">StandardEncoding</a> <small>(PostScript)</small></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_vid%C3%A9otex&amp;action=edit&amp;redlink=1" class="new" title="Page de code vidéotex (page inexistante)">Page de code vidéotex</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_ZX_Spectrum&amp;action=edit&amp;redlink=1" class="new" title="Page de code ZX Spectrum (page inexistante)">Page de code ZX Spectrum</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_Amstrad_CPC&amp;action=edit&amp;redlink=1" class="new" title="Page de code Amstrad CPC (page inexistante)">Page de code Amstrad CPC</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_Atari_ST&amp;action=edit&amp;redlink=1" class="new" title="Page de code Atari ST (page inexistante)">Page de code Atari ST</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/w/index.php?title=Page_de_code_Amiga&amp;action=edit&amp;redlink=1" class="new" title="Page de code Amiga (page inexistante)">Page de code Amiga</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Non basés sur ISO 646</th>
+<td class="navbox-list navbox-even" style="text-align:left;"><span class="nowrap"><a href="/wiki/Vietnamese_Standard_Code_for_Information_Interchange" title="Vietnamese Standard Code for Information Interchange">VISCII</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Extended_Binary_Coded_Decimal_Interchange_Code" title="Extended Binary Coded Decimal Interchange Code">EBCDIC</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/EBCDIC_297" title="EBCDIC 297">EBCDIC 297</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/EBCDIC_8859" title="EBCDIC 8859">EBCDIC 8859</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:9em;text-align:left">Autres</th>
+<td class="navbox-list" style="text-align:center;">
+<table class="navbox-subgroup" style="">
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Codés sur 7 bits</th>
+<td class="navbox-list" style="text-align:left;"><span class="nowrap"><a href="/wiki/American_Standard_Code_for_Information_Interchange" title="American Standard Code for Information Interchange">ASCII</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/ISO_646" class="mw-redirect" title="ISO 646">ISO 646</a></span></td>
+</tr>
+<tr>
+<th class="navbox-group" style="width:14em;text-align:left">Moins de 7 bits</th>
+<td class="navbox-list navbox-even" style="text-align:left;"><span class="nowrap"><a href="/wiki/Code_Chappe" title="Code Chappe">Code Chappe</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Alphabet_s%C3%A9maphore" title="Alphabet sémaphore">Alphabet sémaphore</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Code_international_des_signaux_maritimes" title="Code international des signaux maritimes">Code international des signaux maritimes</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Morse_(alphabet)" title="Morse (alphabet)">Code morse</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Code_wabun" title="Code wabun">Code wabun</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Code_Baudot" title="Code Baudot">Code Baudot</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/RADIX-50" title="RADIX-50">RADIX-50</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Sixbit" title="Sixbit">Sixbit</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-banner" style="" colspan="3"><span class="nowrap"><a href="/wiki/Codage_des_caract%C3%A8res" title="Codage des caractères">Codage des caractères</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Clavier_d%27ordinateur" title="Clavier d'ordinateur">Clavier d’ordinateur</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Police_num%C3%A9rique" title="Police numérique">Police numérique</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Glyphe" title="Glyphe">Glyphe</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Mojibake" title="Mojibake">Mojibake</a></span>&#160;<span style="font-weight:bold">·</span> <span class="nowrap"><a href="/wiki/Portail:%C3%89criture" title="Portail:Écriture">Portail:Écriture</a></span></td>
+</tr>
+</table>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail">
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Informatique" title="Portail de l’informatique"><img alt="Portail de l’informatique" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/24px-Crystal_mycomputer.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/36px-Crystal_mycomputer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/48px-Crystal_mycomputer.png 2x" data-file-width="64" data-file-height="64" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l’informatique</a></span></span></li>
+<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:%C3%89criture" title="Portail de l’écriture"><img alt="Portail de l’écriture" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_package_wordprocessing.png/24px-Nuvola_apps_package_wordprocessing.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_package_wordprocessing.png/36px-Nuvola_apps_package_wordprocessing.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_package_wordprocessing.png/48px-Nuvola_apps_package_wordprocessing.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:%C3%89criture" title="Portail:Écriture">Portail de l’écriture</a></span></span></li>
+</ul>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-16"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc3629"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;3629</a>.</span></li>
+<li id="cite_note-17"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2279"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2279</a>.</span></li>
+<li id="cite_note-18"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2044"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2044</a>.</span></li>
+<li id="cite_note-19"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="indicateur-langue">(<abbr class="abbr" title="Langue&#160;: anglais">en</abbr>)</span> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2277"><span class="lang-en" lang="en">Request for comments</span> <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2277</a>.</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1165
+Cached time: 20170504225109
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.616 seconds
+Real time usage: 0.783 seconds
+Preprocessor visited node count: 3596/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 172647/2097152 bytes
+Template argument size: 59137/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  508.915      1 -total
+ 29.21%  148.676      1 Modèle:Palette
+ 21.16%  107.678      8 Modèle:RFC
+ 20.99%  106.809      2 Modèle:Méta_palette_de_navigation
+ 17.25%   87.809      1 Modèle:Portail
+ 15.06%   76.628      1 Modèle:Palette_Jeux_de_caractères
+ 13.04%   66.371     17 Modèle:En
+ 12.77%   64.963     11 Modèle:Indication_de_langue
+ 10.94%   55.669      1 Modèle:Palette_Unicode
+  8.58%   43.643      3 Modèle:Méta_palette_de_navigation_sous-groupe
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:3108-0!*!*!!fr!4!*!math=5 and timestamp 20170504225109 and revision id 134983635
+ -->
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=UTF-8&amp;oldid=134983635">https://fr.wikipedia.org/w/index.php?title=UTF-8&amp;oldid=134983635</a>&#160;».					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Unicode" title="Catégorie:Unicode">Unicode</a></li><li><a href="/wiki/Cat%C3%A9gorie:Internationalisation_en_informatique" title="Catégorie:Internationalisation en informatique">Internationalisation en informatique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Code_pr%C3%A9fixe" title="Catégorie:Code préfixe">Code préfixe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:%C3%89criture/Articles_li%C3%A9s" title="Catégorie:Portail:Écriture/Articles liés">Portail:Écriture/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_avec_des_graphiques" title="Catégorie:Page avec des graphiques">Page avec des graphiques</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=UTF-8" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=UTF-8" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/UTF-8"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:UTF-8"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/UTF-8" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=UTF-8&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=UTF-8&amp;action=edit"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=UTF-8&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Aller à l'accueil [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/UTF-8" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/UTF-8" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Téléverser des fichiers [u]" accesskey="u">Importer un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=UTF-8&amp;oldid=134983635" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=UTF-8&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q193537" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=UTF-8&amp;id=134983635" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=UTF-8">Créer un livre</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=UTF-8&amp;returnto=UTF-8&amp;oldid=134983635&amp;writer=rdf2latex">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=UTF-8&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Dans d’autres langues</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%BA%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF-8" title="صيغة التحويل الموحد-8 — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/UTF-8" title="UTF-8 — azéri" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/UTF-8" title="UTF-8 — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/UTF-8" title="UTF-8 — bosniaque" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/UTF-8" title="UTF-8 — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/UTF-8" title="UTF-8 — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/UTF-8" title="UTF-8 — tchouvache" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/UTF-8" title="UTF-8 — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/UTF-8" title="UTF-8 — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/UTF-8" title="UTF-8 — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/UTF-8" title="UTF-8 — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/UTF-8" title="UTF-8 — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/UTF-8" title="UTF-8 — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%81-%DB%B8" title="یوتی‌اف-۸ — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/UTF-8" title="UTF-8 — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/UTF-8" title="UTF-8 — croate" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/UTF-8" title="UTF-8 — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/UTF-8" title="UTF-8 — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/UTF-8" title="UTF-8 — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/UTF-8" title="UTF-8 — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/UTF-8" title="UTF-8 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/UTF-8" title="UTF-8 — lituanien" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/UTF-8" title="UTF-8 — letton" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/UTF-8" title="UTF-8 — malgache" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AF%E0%B5%81.%E0%B4%9F%E0%B4%BF.%E0%B4%8E%E0%B4%AB%E0%B5%8D-8" title="യു.ടി.എഫ്-8 — malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/UTF-8" title="UTF-8 — malais" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/UTF-8" title="UTF-8 — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/UTF-8" title="UTF-8 — norvégien nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/UTF-8" title="UTF-8 — norvégien" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/UTF-8" title="UTF-8 — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/UTF-8" title="UTF-8 — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/UTF-8" title="UTF-8 — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/UTF-8" title="UTF-8 — écossais" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/UTF-8" title="UTF-8 — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/UTF-8" title="UTF-8 — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/UTF-8" title="UTF-8 — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/UTF-8" title="UTF-8 — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/UTF-8" title="UTF-8 — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/UTF-8" title="UTF-8 — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/UTF-8" title="UTF-8 — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/UTF-8" title="UTF-8 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q193537#sitelinks-wikipedia" title="Modifier les liens interlangue" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Cette page a été modifiée pour la dernière fois le 1 mars 2017 à 11:07.</li>
+											<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/UTF-8" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="//wikimediafoundation.org/wiki/Accueil" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+											<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=UTF-8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.783","ppvisitednodes":{"value":3596,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":172647,"limit":2097152},"templateargumentsize":{"value":59137,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  508.915      1 -total"," 29.21%  148.676      1 Modèle:Palette"," 21.16%  107.678      8 Modèle:RFC"," 20.99%  106.809      2 Modèle:Méta_palette_de_navigation"," 17.25%   87.809      1 Modèle:Portail"," 15.06%   76.628      1 Modèle:Palette_Jeux_de_caractères"," 13.04%   66.371     17 Modèle:En"," 12.77%   64.963     11 Modèle:Indication_de_langue"," 10.94%   55.669      1 Modèle:Palette_Unicode","  8.58%   43.643      3 Modèle:Méta_palette_de_navigation_sous-groupe"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":3791436,"limit":52428800}},"cachereport":{"origin":"mw1165","timestamp":"20170504225109","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

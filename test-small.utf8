@@ -1,0 +1,43 @@
+
+UTF-8 est un "format de transformation" 
+issu à l’origine des travaux pour la norme ISO/CEI 10646">ISO/CEI 10646, 
+c’est-à-dire que UTF-8 définit un codage pour tout point de code scalaire caractère abstrait 
+ou "non-caractère" du répertoire du jeu universel de caractères codés 
+(<i>Universal Character Set</i>, ou <i>UCS</i>). 
+Ce répertoire est aujourd’hui commun à la norme ISO/CEI 10646 (depuis sa révision 1) 
+et au standard Unicode (depuis sa version 1.1).
+
+UTF-8 est officiellement défini dans la norme ISO/CEI 10646
+depuis son adoption dans un amendement publié en 1996. 
+Il fut aussi décrit dans le standard Unicode et fait partie de ce standard 
+depuis la version 3.0 publiée en 2000. En 1996 fut publiée 
+la RFC-2044 ("UTF-8, a transformation format of ISO 10646") 
+dans le but de fournir une spécification accessible d’UTF-8 et 
+d’entamer sa standardisation au sein de l’Internet_Engineering_Task_Force (IETF). 
+Cette RFC fut révisée en 1998 (RFC-2279) puis finalement en 2003 (RFC-3629), 
+cette dernière version faisant d’UTF-8 un des standards de l'internet (STD 63).
+
+Description technique
+
+Techniquement, il s’agit de coder les caractères Unicode sous forme de séquences 
+de un à quatre codets d’un octet chacun. La norme Unicode définit entre autres 
+un ensemble (ou répertoire) de caractères. Chaque caractère est repéré dans cet ensemble 
+par un index entier aussi appelé "point de code". 
+Par exemple le caractère "€" (euro) est le 8365-ième caractère  du répertoire Unicode, 
+son index, ou point de code, est donc 8364 (on commence à compter à partir de 0).
+
+
+Le répertoire Unicode peut contenir plus d’un million de caractères, 
+ce qui est bien trop grand pour être codé par un seul octet 
+(limité à des valeurs entre 0 et 255). La norme Unicode définit donc 
+des méthodes standardisées pour coder et stocker cet index sous forme 
+de séquence d’octets: UTF-8 est l'une d’entre elles, 
+avec UTF-16, UTF-32 et leurs différentes variantes.
+
+
+La principale caractéristique d’UTF-8 est qu’elle est rétro-compatible avec la norme ASCII, 
+c’est-à-dire que tout caractère ASCII se code en UTF-8 sous forme d’un unique octet, 
+identique au code ASCII. Par exemple "A" (A majuscule) a pour code ASCII 65 et se code 
+en UTF-8 par l'octet 65. Chaque caractère dont le point de code est supérieur à 127 
+(caractère non ASCII) se code sur 2 à 4 octets. 
+Le caractère € (euro) se code par exemple sur 3 octets: 226, 130, et 172.
